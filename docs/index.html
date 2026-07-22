@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mumbai Desk — Job Tracker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #11151b;
+    --panel: #171c24;
+    --panel-border: #262c37;
+    --ink: #ece8dd;
+    --ink-dim: #9aa1ad;
+    --gold: #b9924a;
+    --gold-dim: #7c6636;
+    --green: #4f8f6a;
+    --green-dim: rgba(79,143,106,0.15);
+    --rust: #a6543f;
+    --rust-dim: rgba(166,84,63,0.15);
+    --radius: 10px;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:'Inter',system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:var(--gold);}
+
+  /* ---- Ticker ---- */
+  .ticker-wrap{
+    background:#0c0f14;
+    border-bottom:1px solid var(--panel-border);
+    overflow:hidden;
+    white-space:nowrap;
+    padding:10px 0;
+  }
+  .ticker-wrap .eyebrow{
+    display:inline-block;
+    font-family:'IBM Plex Mono',monospace;
+    font-size:11px;
+    letter-spacing:0.12em;
+    color:var(--ink-dim);
+    padding:0 16px;
+  }
+  .ticker{
+    display:inline-block;
+    font-family:'IBM Plex Mono',monospace;
+    font-size:13px;
+    animation: scroll-left 40s linear infinite;
+    padding-left:100%;
+  }
+  .ticker span.item{ margin-right:48px; color:var(--ink-dim); }
+  .ticker span.item .new-flag{ color:var(--green); font-weight:600; }
+  @keyframes scroll-left{
+    0%{ transform:translateX(0); }
+    100%{ transform:translateX(-100%); }
+  }
+  @media (prefers-reduced-motion: reduce){
+    .ticker{ animation:none; padding-left:0; }
+  }
+
+  /* ---- Header ---- */
+  header{
+    max-width:980px;
+    margin:0 auto;
+    padding:48px 24px 24px;
+  }
+  header .kicker{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:12px;
+    letter-spacing:0.14em;
+    color:var(--gold);
+    text-transform:uppercase;
+  }
+  h1{
+    font-family:'Source Serif 4',serif;
+    font-weight:600;
+    font-size:clamp(28px,4vw,40px);
+    margin:8px 0 6px;
+    line-height:1.15;
+  }
+  .subhead{
+    color:var(--ink-dim);
+    font-size:14.5px;
+    display:flex;
+    flex-wrap:wrap;
+    gap:6px 18px;
+  }
+  .subhead b{ color:var(--ink); font-weight:600; }
+
+  /* ---- Controls ---- */
+  .controls{
+    max-width:980px;
+    margin:20px auto 0;
+    padding:0 24px;
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+    align-items:center;
+  }
+  .pill{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:12.5px;
+    border:1px solid var(--panel-border);
+    background:var(--panel);
+    color:var(--ink-dim);
+    padding:7px 14px;
+    border-radius:999px;
+    cursor:pointer;
+    user-select:none;
+    transition:border-color .15s, color .15s;
+  }
+  .pill.active{
+    border-color:var(--gold-dim);
+    color:var(--gold);
+  }
+  .spacer{ flex:1; }
+  .switch-label{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:12.5px;
+    color:var(--ink-dim);
+    display:flex;
+    align-items:center;
+    gap:8px;
+    cursor:pointer;
+  }
+  .switch{
+    width:34px; height:18px;
+    background:#232a35;
+    border-radius:999px;
+    position:relative;
+    border:1px solid var(--panel-border);
+  }
+  .switch::after{
+    content:"";
+    position:absolute;
+    top:1px; left:1px;
+    width:14px; height:14px;
+    border-radius:50%;
+    background:var(--ink-dim);
+    transition:transform .15s, background .15s;
+  }
+  .switch.on{ border-color:var(--green-dim); }
+  .switch.on::after{ transform:translateX(16px); background:var(--green); }
+
+  /* ---- Main ---- */
+  main{
+    max-width:980px;
+    margin:0 auto;
+    padding:28px 24px 80px;
+  }
+  .company-card{
+    background:var(--panel);
+    border:1px solid var(--panel-border);
+    border-radius:var(--radius);
+    margin-bottom:18px;
+    overflow:hidden;
+  }
+  .company-head{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    padding:16px 20px;
+    border-bottom:1px solid var(--panel-border);
+  }
+  .company-head .dot{
+    width:8px; height:8px; border-radius:50%;
+    background:var(--green);
+    flex-shrink:0;
+  }
+  .company-head .dot.err{ background:var(--rust); }
+  .company-head h2{
+    font-family:'Source Serif 4',serif;
+    font-size:19px;
+    font-weight:600;
+    margin:0;
+    flex:1;
+  }
+  .company-head .count{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:12px;
+    color:var(--ink-dim);
+  }
+  .job-row{
+    display:flex;
+    gap:16px;
+    align-items:baseline;
+    padding:14px 20px;
+    border-bottom:1px solid var(--panel-border);
+    text-decoration:none;
+    color:var(--ink);
+  }
+  .job-row:last-child{ border-bottom:none; }
+  .job-row:hover{ background:rgba(255,255,255,0.02); }
+  .job-row .title{ flex:1; font-size:14.5px; font-weight:500; }
+  .job-row .meta{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:12px;
+    color:var(--ink-dim);
+    white-space:nowrap;
+  }
+  .badge{
+    font-family:'IBM Plex Mono',monospace;
+    font-size:10.5px;
+    letter-spacing:0.06em;
+    padding:2px 7px;
+    border-radius:5px;
+    text-transform:uppercase;
+  }
+  .badge.new{ background:var(--green-dim); color:var(--green); }
+  .badge.manual{ background:var(--rust-dim); color:var(--rust); }
+  .empty-note, .error-note{
+    padding:16px 20px;
+    font-size:13.5px;
+    color:var(--ink-dim);
+  }
+  .error-note{ color:var(--rust); }
+
+  footer{
+    max-width:980px;
+    margin:0 auto;
+    padding:0 24px 60px;
+    color:var(--ink-dim);
+    font-size:12.5px;
+    line-height:1.6;
+  }
+  footer a{ color:var(--ink-dim); text-decoration:underline; }
+</style>
+</head>
+<body>
+
+<div class="ticker-wrap">
+  <span class="eyebrow">MUMBAI DESK //</span>
+  <span class="ticker" id="ticker">
+    <span class="item">Loading latest postings…</span>
+  </span>
+</div>
+
+<header>
+  <div class="kicker">Equity · Asset Management · Investment Banking</div>
+  <h1>Mumbai job tracker</h1>
+  <div class="subhead">
+    <span>Watching <b>5</b> banks</span>
+    <span>Last checked <b id="last-checked">—</b></span>
+    <span><b id="total-count">0</b> open matching postings</span>
+    <span>·</span>
+    <span><a href="./all.html">View all Mumbai postings (no keyword filter) →</a></span>
+  </div>
+</header>
+
+<div class="controls" id="controls">
+  <button class="pill active" data-filter="all">All companies</button>
+  <div class="spacer"></div>
+  <label class="switch-label">
+    <span>New only</span>
+    <span class="switch" id="new-switch"></span>
+  </label>
+</div>
+
+<main id="main">
+  <div class="empty-note">Loading…</div>
+</main>
+
+<footer>
+  Checks JPMorgan, HSBC, Morgan Stanley, Bank of America and Deutsche Bank's own careers sites once a day for
+  roles in Mumbai matching Equity, Asset Management or Investment Banking, via a scheduled GitHub Action —
+  this page just displays the latest result, it doesn't run anything itself.
+  Bank of America's careers platform doesn't expose a reliable public search feed, so that row links out to a
+  pre-filled search instead of live results. See the <a href="https://github.com" target="_blank">repo</a> for source.
+</footer>
+
+<script>
+const DATA_URL = './data/jobs.json';
+const STATUS_URL = './data/status.json';
+
+// Small inline sample so the page still looks right before it's hooked up
+// to real data on GitHub Pages (e.g. when previewing this file directly).
+const SAMPLE = {
+  generated_at: new Date().toISOString(),
+  jobs: [
+    {company:"JPMorgan", title:"Analyst, Equity Derivatives", location:"Mumbai, India", url:"#", posted:"", is_new:true},
+    {company:"Morgan Stanley", title:"Associate, Investment Banking Coverage", location:"Mumbai, India", url:"#", posted:"", is_new:false},
+  ]
+};
+
+let allJobs = [];
+let activeCompany = 'all';
+let newOnly = false;
+
+function timeAgo(iso){
+  if(!iso) return '—';
+  const d = new Date(iso);
+  const diffMin = Math.round((Date.now() - d.getTime())/60000);
+  if(diffMin < 60) return `${diffMin}m ago`;
+  const diffH = Math.round(diffMin/60);
+  if(diffH < 48) return `${diffH}h ago`;
+  return d.toLocaleDateString('en-GB',{day:'numeric',month:'short'});
+}
+
+function render(){
+  const companies = [...new Set(allJobs.map(j=>j.company))];
+
+  // controls
+  const controls = document.getElementById('controls');
+  controls.querySelectorAll('.pill[data-filter]').forEach(el=>el.remove());
+  const allPill = document.createElement('button');
+  allPill.className = 'pill' + (activeCompany==='all' ? ' active' : '');
+  allPill.dataset.filter = 'all';
+  allPill.textContent = 'All companies';
+  allPill.onclick = () => { activeCompany='all'; render(); };
+  controls.insertBefore(allPill, controls.firstChild);
+  companies.forEach(c=>{
+    const pill = document.createElement('button');
+    pill.className = 'pill' + (activeCompany===c ? ' active' : '');
+    pill.dataset.filter = c;
+    pill.textContent = c;
+    pill.onclick = () => { activeCompany=c; render(); };
+    controls.insertBefore(pill, document.querySelector('.spacer'));
+  });
+
+  document.getElementById('total-count').textContent = allJobs.filter(j=>!j.manual_check).length;
+
+  const main = document.getElementById('main');
+  main.innerHTML = '';
+
+  let visibleCompanies = activeCompany==='all' ? companies : [activeCompany];
+  if(visibleCompanies.length===0){
+    main.innerHTML = '<div class="empty-note">No matching postings yet — check back after the next daily run.</div>';
+    return;
+  }
+
+  visibleCompanies.forEach(company=>{
+    let jobs = allJobs.filter(j=>j.company===company);
+    if(newOnly) jobs = jobs.filter(j=>j.is_new);
+
+    const card = document.createElement('div');
+    card.className = 'company-card';
+
+    const head = document.createElement('div');
+    head.className = 'company-head';
+    head.innerHTML = `<span class="dot"></span><h2>${company}</h2><span class="count">${jobs.length} match${jobs.length===1?'':'es'}</span>`;
+    card.appendChild(head);
+
+    if(jobs.length===0){
+      const note = document.createElement('div');
+      note.className = 'empty-note';
+      note.textContent = newOnly ? 'No new postings today.' : 'No open matching postings right now.';
+      card.appendChild(note);
+    } else {
+      jobs.forEach(job=>{
+        const row = document.createElement('a');
+        row.className = 'job-row';
+        row.href = job.url;
+        row.target = '_blank';
+        row.rel = 'noopener';
+        row.innerHTML = `
+          <span class="title">${job.title}${job.is_new ? ' <span class="badge new">new</span>' : ''}${job.manual_check ? ' <span class="badge manual">manual check</span>' : ''}</span>
+          <span class="meta">${job.location || ''}</span>
+        `;
+        card.appendChild(row);
+      });
+    }
+    main.appendChild(card);
+  });
+}
+
+function renderTicker(){
+  const ticker = document.getElementById('ticker');
+  const newJobs = allJobs.filter(j=>j.is_new && !j.manual_check);
+  if(newJobs.length===0){
+    ticker.innerHTML = '<span class="item">No new postings since the last check.</span>';
+    return;
+  }
+  ticker.innerHTML = newJobs.map(j=>
+    `<span class="item"><span class="new-flag">NEW</span> · ${j.company} — ${j.title}</span>`
+  ).join('');
+}
+
+async function load(){
+  let data;
+  try{
+    const res = await fetch(DATA_URL, {cache:'no-store'});
+    if(!res.ok) throw new Error('no data yet');
+    data = await res.json();
+  }catch(e){
+    data = SAMPLE;
+  }
+  allJobs = data.jobs || [];
+  document.getElementById('last-checked').textContent = timeAgo(data.generated_at);
+  render();
+  renderTicker();
+}
+
+document.getElementById('new-switch').onclick = function(){
+  newOnly = !newOnly;
+  this.classList.toggle('on', newOnly);
+  render();
+};
+
+load();
+</script>
+</body>
+</html>
