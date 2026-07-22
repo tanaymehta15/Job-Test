@@ -1,1 +1,80 @@
-{}
+{
+  "JPMorgan": {
+    "checked_at": "2026-07-22T09:23:13.417518+00:00",
+    "ok": true,
+    "error": null,
+    "matches_found": 11
+  },
+  "Morgan Stanley": {
+    "checked_at": "2026-07-22T09:23:13.417518+00:00",
+    "ok": false,
+    "error": "HTTPError: 400 Client Error: Bad Request for url: https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs",
+    "matches_found": 0
+  },
+  "Deutsche Bank": {
+    "checked_at": "2026-07-22T09:23:13.417518+00:00",
+    "ok": false,
+    "error": "HTTPError: 400 Client Error: Bad Request for url: https://db.wd3.myworkdayjobs.com/wday/cxs/db/DBWebsite/jobs",
+    "matches_found": 0
+  },
+  "HSBC": {
+    "checked_at": "2026-07-22T09:23:13.417518+00:00",
+    "ok": true,
+    "error": null,
+    "matches_found": 10
+  },
+  "Bank of America": {
+    "checked_at": "2026-07-22T09:23:13.417518+00:00",
+    "ok": true,
+    "error": null,
+    "matches_found": 1
+  },
+  "SBI Mutual Fund": {
+    "checked_at": "2026-07-22T09:23:13.417518+00:00",
+    "ok": false,
+    "error": "Naukri: HTTPError: 406 Client Error: Not Acceptable for url: https://www.naukri.com/jobapi/v3/search?noOfResults=20&urlType=search_by_keyword&searchType=adv&keyword=SBI+Mutual+Fund&location=Mumbai&k=SBI+Mutual+Fund&l=Mumbai; Indeed: HTTPError: 403 Client Error: Forbidden for url: https://in.indeed.com/jobs?q=%22SBI+Mutual+Fund%22&l=Mumbai",
+    "matches_found": 1
+  },
+  "ICICI Prudential Asset Management": {
+    "checked_at": "2026-07-22T09:23:13.417518+00:00",
+    "ok": false,
+    "error": "Naukri: HTTPError: 406 Client Error: Not Acceptable for url: https://www.naukri.com/jobapi/v3/search?noOfResults=20&urlType=search_by_keyword&searchType=adv&keyword=ICICI+Prudential+Asset+Management&location=Mumbai&k=ICICI+Prudential+Asset+Management&l=Mumbai; Indeed: HTTPError: 403 Client Error: Forbidden for url: https://in.indeed.com/jobs?q=%22ICICI+Prudential+Asset+Management%22&l=Mumbai",
+    "matches_found": 1
+  },
+  "HDFC Asset Management": {
+    "checked_at": "2026-07-22T09:23:13.417518+00:00",
+    "ok": false,
+    "error": "Naukri: HTTPError: 406 Client Error: Not Acceptable for url: https://www.naukri.com/jobapi/v3/search?noOfResults=20&urlType=search_by_keyword&searchType=adv&keyword=HDFC+Asset+Management&location=Mumbai&k=HDFC+Asset+Management&l=Mumbai; Indeed: HTTPError: 403 Client Error: Forbidden for url: https://in.indeed.com/jobs?q=%22HDFC+Asset+Management%22&l=Mumbai",
+    "matches_found": 1
+  },
+  "Nippon India Mutual Fund": {
+    "checked_at": "2026-07-22T09:23:13.417518+00:00",
+    "ok": false,
+    "error": "Naukri: HTTPError: 406 Client Error: Not Acceptable for url: https://www.naukri.com/jobapi/v3/search?noOfResults=20&urlType=search_by_keyword&searchType=adv&keyword=Nippon+India+Mutual+Fund&location=Mumbai&k=Nippon+India+Mutual+Fund&l=Mumbai; Indeed: HTTPError: 403 Client Error: Forbidden for url: https://in.indeed.com/jobs?q=%22Nippon+India+Mutual+Fund%22&l=Mumbai",
+    "matches_found": 1
+  },
+  "Kotak Mahindra Asset Management": {
+    "checked_at": "2026-07-22T09:23:13.417518+00:00",
+    "ok": false,
+    "error": "Naukri: HTTPError: 406 Client Error: Not Acceptable for url: https://www.naukri.com/jobapi/v3/search?noOfResults=20&urlType=search_by_keyword&searchType=adv&keyword=Kotak+Mahindra+Asset+Management&location=Mumbai&k=Kotak+Mahindra+Asset+Management&l=Mumbai; Indeed: HTTPError: 403 Client Error: Forbidden for url: https://in.indeed.com/jobs?q=%22Kotak+Mahindra+Asset+Management%22&l=Mumbai",
+    "matches_found": 1
+  },
+  "Aditya Birla Sun Life Mutual Fund": {
+    "checked_at": "2026-07-22T09:23:13.417518+00:00",
+    "ok": false,
+    "error": "Naukri: HTTPError: 406 Client Error: Not Acceptable for url: https://www.naukri.com/jobapi/v3/search?noOfResults=20&urlType=search_by_keyword&searchType=adv&keyword=Aditya+Birla+Sun+Life+Mutual+Fund&location=Mumbai&k=Aditya+Birla+Sun+Life+Mutual+Fund&l=Mumbai; Indeed: HTTPError: 403 Client Error: Forbidden for url: https://in.indeed.com/jobs?q=%22Aditya+Birla+Sun+Life+Mutual+Fund%22&l=Mumbai",
+    "matches_found": 1
+  },
+  "UTI Asset Management": {
+    "checked_at": "2026-07-22T09:23:13.417518+00:00",
+    "ok": false,
+    "error": "Naukri: HTTPError: 406 Client Error: Not Acceptable for url: https://www.naukri.com/jobapi/v3/search?noOfResults=20&urlType=search_by_keyword&searchType=adv&keyword=UTI+Asset+Management&location=Mumbai&k=UTI+Asset+Management&l=Mumbai; Indeed: HTTPError: 403 Client Error: Forbidden for url: https://in.indeed.com/jobs?q=%22UTI+Asset+Management%22&l=Mumbai",
+    "matches_found": 1
+  },
+  "Axis Asset Management": {
+    "checked_at": "2026-07-22T09:23:13.417518+00:00",
+    "ok": false,
+    "error": "Naukri: HTTPError: 406 Client Error: Not Acceptable for url: https://www.naukri.com/jobapi/v3/search?noOfResults=20&urlType=search_by_keyword&searchType=adv&keyword=Axis+Asset+Management&location=Mumbai&k=Axis+Asset+Management&l=Mumbai; Indeed: HTTPError: 403 Client Error: Forbidden for url: https://in.indeed.com/jobs?q=%22Axis+Asset+Management%22&l=Mumbai",
+    "matches_found": 1
+  }
+}
