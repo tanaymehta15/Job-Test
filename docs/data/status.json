@@ -1,30 +1,30 @@
 {
   "JPMorgan": {
-    "checked_at": "2026-07-22T09:22:53.963270+00:00",
+    "checked_at": "2026-07-22T09:47:59.832849+00:00",
     "ok": true,
     "error": null,
     "matches_found": 3
   },
   "Morgan Stanley": {
-    "checked_at": "2026-07-22T09:22:53.963270+00:00",
+    "checked_at": "2026-07-22T09:47:59.832849+00:00",
     "ok": false,
     "error": "HTTPError: 400 Client Error: Bad Request for url: https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs",
     "matches_found": 0
   },
   "Deutsche Bank": {
-    "checked_at": "2026-07-22T09:22:53.963270+00:00",
+    "checked_at": "2026-07-22T09:47:59.832849+00:00",
     "ok": false,
     "error": "HTTPError: 400 Client Error: Bad Request for url: https://db.wd3.myworkdayjobs.com/wday/cxs/db/DBWebsite/jobs",
     "matches_found": 0
   },
   "HSBC": {
-    "checked_at": "2026-07-22T09:22:53.963270+00:00",
+    "checked_at": "2026-07-22T09:47:59.832849+00:00",
     "ok": true,
     "error": null,
     "matches_found": 1
   },
   "Bank of America": {
-    "checked_at": "2026-07-22T09:22:53.963270+00:00",
+    "checked_at": "2026-07-22T09:47:59.832849+00:00",
     "ok": true,
     "error": null,
     "matches_found": 3
