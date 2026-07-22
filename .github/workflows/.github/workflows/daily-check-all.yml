@@ -1,0 +1,36 @@
+name: Daily job check (all Mumbai postings)
+
+on:
+  schedule:
+    - cron: "45 3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  check-jobs-all:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+      - name: Run scraper
+        run: python scraper/scrape_all_mumbai.py
+      - name: Send Telegram notification (if configured)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scraper/notify.py --data-dir docs/data-all --label "All Mumbai postings"
+      - name: Commit updated data
+        run: |
+          git config user.name "job-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data-all
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Daily all-postings data update"
+          git push
