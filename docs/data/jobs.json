@@ -1,6 +1,77 @@
 {
-  "generated_at": null,
+  "generated_at": "2026-07-22T09:10:57.358608+00:00",
   "location_filter": "Mumbai",
-  "keywords": ["Equity", "Asset Management", "Investment Banking"],
-  "jobs": []
+  "keywords": [
+    "Equity",
+    "Asset Management",
+    "Investment Banking"
+  ],
+  "jobs": [
+    {
+      "company": "Bank of America",
+      "title": "Manual check needed: search \"Asset Management\"",
+      "location": "Mumbai (filter on site)",
+      "id": "bofa-manual-asset-management",
+      "url": "https://careers.bankofamerica.com/en-us/job-search?ss=&q=Asset%20Management",
+      "posted": "",
+      "manual_check": true,
+      "is_new": true
+    },
+    {
+      "company": "Bank of America",
+      "title": "Manual check needed: search \"Equity\"",
+      "location": "Mumbai (filter on site)",
+      "id": "bofa-manual-equity",
+      "url": "https://careers.bankofamerica.com/en-us/job-search?ss=&q=Equity",
+      "posted": "",
+      "manual_check": true,
+      "is_new": true
+    },
+    {
+      "company": "Bank of America",
+      "title": "Manual check needed: search \"Investment Banking\"",
+      "location": "Mumbai (filter on site)",
+      "id": "bofa-manual-investment-banking",
+      "url": "https://careers.bankofamerica.com/en-us/job-search?ss=&q=Investment%20Banking",
+      "posted": "",
+      "manual_check": true,
+      "is_new": true
+    },
+    {
+      "company": "HSBC",
+      "title": "Head of Research, Equities - HSBC Asset Management",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774611777323",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774611777323",
+      "posted": 1783479480,
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Asset Management - Client Platform Analytics - Client Services",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210771952",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771952",
+      "posted": "2026-07-22",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Associate - Legal - Asset Management",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210761094",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761094",
+      "posted": "2026-07-21",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "India Broking Equity & Currency Derivatives Operations (Futures & Options) - Analyst",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210772311",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772311",
+      "posted": "2026-07-21",
+      "is_new": true
+    }
+  ]
 }
