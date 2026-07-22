@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T09:23:13.417518+00:00",
+  "generated_at": "2026-07-22T09:48:11.894919+00:00",
   "location_filter": "Mumbai",
   "keywords": [],
   "note": "All open roles, no keyword filter. Banks are live-scraped; AMCs are aggregated best-effort from Naukri/Indeed, plus a manual LinkedIn search link.",
@@ -13,7 +13,7 @@
       "url": "https://www.linkedin.com/jobs/search/?keywords=Aditya%20Birla%20Sun%20Life%20Mutual%20Fund&location=Mumbai%2C%20India",
       "posted": "",
       "manual_check": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "Axis Asset Management",
@@ -24,7 +24,7 @@
       "url": "https://www.linkedin.com/jobs/search/?keywords=Axis%20Asset%20Management&location=Mumbai%2C%20India",
       "posted": "",
       "manual_check": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "Bank of America",
@@ -35,7 +35,7 @@
       "posted": "",
       "manual_check": true,
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "HDFC Asset Management",
@@ -46,7 +46,7 @@
       "url": "https://www.linkedin.com/jobs/search/?keywords=HDFC%20Asset%20Management&location=Mumbai%2C%20India",
       "posted": "",
       "manual_check": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "HSBC",
@@ -56,7 +56,7 @@
       "url": "https://portal.careers.hsbc.com/careers/job/563774611825095",
       "posted": 1783685892,
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "HSBC",
@@ -66,7 +66,7 @@
       "url": "https://portal.careers.hsbc.com/careers/job/563774611695246",
       "posted": 1782902453,
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "HSBC",
@@ -76,7 +76,7 @@
       "url": "https://portal.careers.hsbc.com/careers/job/563774610366542",
       "posted": 1774369064,
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "HSBC",
@@ -86,7 +86,7 @@
       "url": "https://portal.careers.hsbc.com/careers/job/563774611971520",
       "posted": 1784542963,
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "HSBC",
@@ -96,7 +96,7 @@
       "url": "https://portal.careers.hsbc.com/careers/job/563774611971526",
       "posted": 1784539811,
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "HSBC",
@@ -106,7 +106,7 @@
       "url": "https://portal.careers.hsbc.com/careers/job/563774611526820",
       "posted": 1781758072,
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "HSBC",
@@ -116,7 +116,7 @@
       "url": "https://portal.careers.hsbc.com/careers/job/563774610546630",
       "posted": 1775639660,
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "HSBC",
@@ -126,7 +126,7 @@
       "url": "https://portal.careers.hsbc.com/careers/job/563774611968461",
       "posted": 1784533166,
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "HSBC",
@@ -136,7 +136,7 @@
       "url": "https://portal.careers.hsbc.com/careers/job/563774611875349",
       "posted": 1784049767,
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "HSBC",
@@ -146,7 +146,7 @@
       "url": "https://portal.careers.hsbc.com/careers/job/563774611825310",
       "posted": 1783686477,
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "ICICI Prudential Asset Management",
@@ -157,6 +157,36 @@
       "url": "https://www.linkedin.com/jobs/search/?keywords=ICICI%20Prudential%20Asset%20Management&location=Mumbai%2C%20India",
       "posted": "",
       "manual_check": true,
+      "is_new": false
+    },
+    {
+      "company": "JPMorgan",
+      "title": "CIBT Controllers Analyst",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210766569",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766569",
+      "posted": "2026-07-22",
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Senior Lead Software Engineer - Python",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210771368",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771368",
+      "posted": "2026-07-22",
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Software Engineer III - Python, AI ML, Cloud",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210772636",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772636",
+      "posted": "2026-07-22",
+      "source": "Careers site",
       "is_new": true
     },
     {
@@ -167,7 +197,7 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772095",
       "posted": "2026-07-22",
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "JPMorgan",
@@ -177,7 +207,7 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771952",
       "posted": "2026-07-22",
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "JPMorgan",
@@ -187,7 +217,7 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768188",
       "posted": "2026-07-22",
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "JPMorgan",
@@ -197,7 +227,7 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731902",
       "posted": "2026-07-22",
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "JPMorgan",
@@ -207,17 +237,7 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701800",
       "posted": "2026-07-21",
       "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "HR & EX Chief Data Office, Data Privacy - Associate",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210742449",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742449",
-      "posted": "2026-07-21",
-      "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "JPMorgan",
@@ -227,7 +247,7 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772330",
       "posted": "2026-07-22",
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "JPMorgan",
@@ -237,7 +257,7 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770052",
       "posted": "2026-07-22",
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "JPMorgan",
@@ -247,7 +267,7 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764923",
       "posted": "2026-07-22",
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "JPMorgan",
@@ -257,7 +277,7 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760565",
       "posted": "2026-07-22",
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "JPMorgan",
@@ -267,7 +287,7 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210588633",
       "posted": "2026-07-22",
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "Kotak Mahindra Asset Management",
@@ -278,7 +298,7 @@
       "url": "https://www.linkedin.com/jobs/search/?keywords=Kotak%20Mahindra%20Asset%20Management&location=Mumbai%2C%20India",
       "posted": "",
       "manual_check": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "Nippon India Mutual Fund",
@@ -289,7 +309,7 @@
       "url": "https://www.linkedin.com/jobs/search/?keywords=Nippon%20India%20Mutual%20Fund&location=Mumbai%2C%20India",
       "posted": "",
       "manual_check": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "SBI Mutual Fund",
@@ -300,7 +320,7 @@
       "url": "https://www.linkedin.com/jobs/search/?keywords=SBI%20Mutual%20Fund&location=Mumbai%2C%20India",
       "posted": "",
       "manual_check": true,
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "UTI Asset Management",
@@ -311,7 +331,7 @@
       "url": "https://www.linkedin.com/jobs/search/?keywords=UTI%20Asset%20Management&location=Mumbai%2C%20India",
       "posted": "",
       "manual_check": true,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
