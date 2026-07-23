@@ -1,29 +1,128 @@
 [
   {
     "company": "JPMorgan",
-    "title": "CIBT Controllers Analyst",
+    "title": "Financial Planning & Analysis- Associate",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210766569",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766569",
+    "id": "jpm-210771444",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771444",
+    "posted": "2026-07-23",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Manager of Software Engineering - Java, AWS",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210717933",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210717933",
     "posted": "2026-07-22",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Senior Lead Software Engineer - Python",
+    "title": "Software Engineer III - Java Full Stack Developer + React + AWS",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210771368",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771368",
+    "id": "jpm-210745757",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745757",
     "posted": "2026-07-22",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Software Engineer III - Python, AI ML, Cloud",
+    "title": "Analyst - Corporate Centers India LEC",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210772636",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772636",
+    "id": "jpm-210748044",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748044",
     "posted": "2026-07-22",
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "AM, Cash Operations",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774611810971",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774611810971",
+    "posted": 1783658710,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Innovation and insights",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774609479448",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774609479448",
+    "posted": 1769773173,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Head of Research, Equities - HSBC Asset Management",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774611777323",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774611777323",
+    "posted": 1783479480,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Product Manager - Cross Border Payments",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774611803993",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774611803993",
+    "posted": 1783584850,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Manager - Operations",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774611805790",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774611805790",
+    "posted": 1783605557,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "VP  Retail Marketing Strategy and Brand Partnerships",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774611854726",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774611854726",
+    "posted": 1783853497,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Universal Banker",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774611854727",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774611854727",
+    "posted": 1783853942,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "VP Premier Plus Relationship Manager",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774611854735",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774611854735",
+    "posted": 1783854489,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Assistant Manager-OI business",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774611854777",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774611854777",
+    "posted": 1783856295,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "AVP - Insurance Specialist - West",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774611857092",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774611857092",
+    "posted": 1783924834,
     "source": "Careers site"
   }
 ]
