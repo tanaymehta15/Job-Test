@@ -1,19 +1,28 @@
 [
   {
     "company": "JPMorgan",
-    "title": "Data Analytics Analyst",
+    "title": "Client Tax Analyst",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210735129",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735129",
+    "id": "jpm-210711899",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711899",
     "posted": "2026-07-24",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Software Engineer II- Data Engineer",
+    "title": "Software Engineer II",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210751466",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210751466",
+    "id": "jpm-210724453",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210724453",
+    "posted": "2026-07-24",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Software Engineer II",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210747406",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747406",
     "posted": "2026-07-24",
     "source": "Careers site"
   },
@@ -21,126 +30,54 @@
     "company": "JPMorgan",
     "title": "Regulatory Reporting Associate",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210768937",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768937",
+    "id": "jpm-210766935",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766935",
     "posted": "2026-07-24",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Control Manager - VP",
+    "title": "Technology Support Lead",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210773391",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773391",
+    "id": "jpm-210767439",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767439",
     "posted": "2026-07-24",
     "source": "Careers site"
   },
   {
-    "company": "JPMorgan",
-    "title": "Asset Management Business Management -Associate",
+    "company": "HSBC",
+    "title": "Vice President - Relationship Manager - Business Banking",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210735970",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735970",
-    "posted": "2026-07-23",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Lead Technical Program Manager - Solution Analyst",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210743015",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210743015",
-    "posted": "2026-07-23",
+    "id": "hsbc-563774611880003",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774611880003",
+    "posted": 1784139200,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "VP Equities",
+    "title": "Assistant Vice President - Associate Relationship Support Manager - Business Banking",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611325975",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611325975",
-    "posted": 1780508999,
+    "id": "hsbc-563774611880028",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774611880028",
+    "posted": 1784139514,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "Corporate Relationship Support Manager",
+    "title": "AVP Senior Premier Relationship Manager",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611695264",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611695264",
-    "posted": 1782903046,
+    "id": "hsbc-563774611878566",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774611878566",
+    "posted": 1784113257,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "Head of German Desk",
+    "title": "Virtual Relationship Manager OI",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611759510",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611759510",
-    "posted": 1783339213,
-    "source": "Careers site"
-  },
-  {
-    "company": "HSBC",
-    "title": "Senior Trade Mid Office Manager",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611776604",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611776604",
-    "posted": 1783438367,
-    "source": "Careers site"
-  },
-  {
-    "company": "HSBC",
-    "title": "Senior Vice President and Regional Head West India MSF",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611874651",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611874651",
-    "posted": 1784035250,
-    "source": "Careers site"
-  },
-  {
-    "company": "HSBC",
-    "title": "Vice President Brokerage Operations",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611875315",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611875315",
-    "posted": 1784048195,
-    "source": "Careers site"
-  },
-  {
-    "company": "HSBC",
-    "title": "AVP Operations",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611875348",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611875348",
-    "posted": 1784049171,
-    "source": "Careers site"
-  },
-  {
-    "company": "HSBC",
-    "title": "Assistant Manager Sales and Distribution",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611071616",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611071616",
-    "posted": 1779238650,
-    "source": "Careers site"
-  },
-  {
-    "company": "HSBC",
-    "title": "VP Sales and Distribution",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611495248",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611495248",
-    "posted": 1781530520,
-    "source": "Careers site"
-  },
-  {
-    "company": "HSBC",
-    "title": "Assistant Manager- Trade Mid- Office",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611889005",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611889005",
-    "posted": 1784282709,
+    "id": "hsbc-563774611854747",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774611854747",
+    "posted": 1783855963,
     "source": "Careers site"
   }
 ]
