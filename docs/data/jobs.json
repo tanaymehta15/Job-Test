@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T06:09:37.387332+00:00",
+  "generated_at": "2026-07-25T06:01:42.234655+00:00",
   "location_filter": "Mumbai",
   "keywords": [
     "Equity",
@@ -45,15 +45,6 @@
       "url": "https://portal.careers.hsbc.com/careers/job/563774611777323",
       "posted": 1783479480,
       "is_new": false
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Asset Management Business Management -Associate",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210735970",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735970",
-      "posted": "2026-07-23",
-      "is_new": true
     }
   ]
 }
