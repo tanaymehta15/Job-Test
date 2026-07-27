@@ -1,38 +1,29 @@
 [
   {
-    "company": "HSBC",
-    "title": "Business Development",
+    "company": "JPMorgan",
+    "title": "Lead Software Engineer - UI - React , Typescript",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611990821",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611990821",
-    "posted": 1784651006,
+    "id": "jpm-210724160",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210724160",
+    "posted": "2026-07-27",
     "source": "Careers site"
   },
   {
-    "company": "HSBC",
-    "title": "Manager Treasury Operations",
+    "company": "JPMorgan",
+    "title": "Asia Equities Prime Product Control",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611854398",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611854398",
-    "posted": 1783837754,
+    "id": "jpm-210772317",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772317",
+    "posted": "2026-07-27",
     "source": "Careers site"
   },
   {
-    "company": "HSBC",
-    "title": "Market Manager, Client Connectivity",
+    "company": "JPMorgan",
+    "title": "Assistant Vice President - Legal Discovery Management",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611854591",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611854591",
-    "posted": 1783844012,
-    "source": "Careers site"
-  },
-  {
-    "company": "HSBC",
-    "title": "AM Premier Services",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611854728",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611854728",
-    "posted": 1783852901,
+    "id": "jpm-210772775",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772775",
+    "posted": "2026-07-27",
     "source": "Careers site"
   }
 ]
