@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T06:08:43.305957+00:00",
+  "generated_at": "2026-07-29T06:13:57.904694+00:00",
   "location_filter": "Mumbai",
   "keywords": [
     "Equity",
@@ -35,15 +35,6 @@
       "url": "https://careers.bankofamerica.com/en-us/job-search?ss=&q=Investment%20Banking",
       "posted": "",
       "manual_check": true,
-      "is_new": false
-    },
-    {
-      "company": "JPMorgan",
-      "title": "India Broking Equity & Currency Derivatives Operations (Futures & Options) - Analyst",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210772311",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772311",
-      "posted": "2026-07-27",
       "is_new": false
     }
   ]
