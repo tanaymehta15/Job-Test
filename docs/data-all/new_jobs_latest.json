@@ -1,46 +1,82 @@
 [
   {
     "company": "JPMorgan",
-    "title": "Lead Software Engineer - Java, AWS, React",
+    "title": "Software Engineer III- Oracle Reporting ( OTBI / BIP)",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210771934",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771934",
+    "id": "jpm-210764970",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764970",
+    "posted": "2026-07-31",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "External Reporting Controller - Associate",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210771439",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771439",
+    "posted": "2026-07-31",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Senior Lead Architect",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210774704",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774704",
+    "posted": "2026-07-31",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Valuation Controller - Associate",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210774727",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774727",
+    "posted": "2026-07-31",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Third Party Onboarding Associate",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210775214",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775214",
+    "posted": "2026-07-31",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Trade Lifecycle - Vice President",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210775235",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775235",
+    "posted": "2026-07-31",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Market Risk Time Series Management – Analyst",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210700521",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210700521",
     "posted": "2026-07-30",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "India Broking Equity & Currency Derivatives Operations (Futures & Options) - Analyst",
+    "title": "Lead Software Engineer - Java, Springboot, Kafka",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210772311",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772311",
+    "id": "jpm-210731908",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210731908",
     "posted": "2026-07-30",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Payment Lifecycle Manager - Vice President",
+    "title": "Asset Servicing Analyst",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210773764",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773764",
-    "posted": "2026-07-30",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Trade Services Analyst",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210774228",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774228",
-    "posted": "2026-07-30",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Payment Lifecycle Manager II",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210774778",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774778",
+    "id": "jpm-210754780",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754780",
     "posted": "2026-07-30",
     "source": "Careers site"
   }
