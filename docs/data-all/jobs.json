@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T06:16:11.782475+00:00",
+  "generated_at": "2026-08-02T06:19:50.836380+00:00",
   "location_filter": "Mumbai",
   "keywords": [],
   "note": "All open roles, no keyword filter. Banks are live-scraped; AMCs are aggregated best-effort from Naukri/Indeed, plus a manual LinkedIn search link.",
@@ -47,16 +47,6 @@
       "posted": "",
       "manual_check": true,
       "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "Manager Payment Services (FEMA)",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774609602267",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774609602267",
-      "posted": 1770724006,
-      "source": "Careers site",
-      "is_new": true
     },
     {
       "company": "HSBC",
@@ -110,21 +100,21 @@
     },
     {
       "company": "HSBC",
-      "title": "Assistant Manager - Client Operations",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774611975792",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774611975792",
-      "posted": 1784550405,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
       "title": "Assistant Manager- Trade Mid- Office",
       "location": "Mumbai, Maharashtra, India",
       "id": "hsbc-563774611889005",
       "url": "https://portal.careers.hsbc.com/careers/job/563774611889005",
       "posted": 1784282709,
+      "source": "Careers site",
+      "is_new": false
+    },
+    {
+      "company": "HSBC",
+      "title": "Business Development",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774611990821",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774611990821",
+      "posted": 1784651006,
       "source": "Careers site",
       "is_new": false
     },
@@ -149,6 +139,16 @@
       "is_new": false
     },
     {
+      "company": "HSBC",
+      "title": "VP- Business Development and PMS",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774611977163",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774611977163",
+      "posted": 1784555931,
+      "source": "Careers site",
+      "is_new": false
+    },
+    {
       "company": "ICICI Prudential Asset Management",
       "source": "LinkedIn",
       "title": "Manual check (LinkedIn isn't auto-scraped, see adapters_amc.py)",
@@ -161,43 +161,13 @@
     },
     {
       "company": "JPMorgan",
-      "title": "F&BM - Business Support Management – Expense Management Team member",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210765706",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765706",
-      "posted": "2026-07-31",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
       "title": "Lead Software Engineer- Java Fullstack",
       "location": "Mumbai, Maharashtra, India",
       "id": "jpm-210759191",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210759191",
       "posted": "2026-07-31",
       "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Software Engineer II- ETL Testing ,Pyspark, AWS",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210764994",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764994",
-      "posted": "2026-07-31",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Software Engineer III - ETL Testing ,Pyspark, AWS",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210764973",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764973",
-      "posted": "2026-07-31",
-      "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "JPMorgan",
@@ -205,16 +175,6 @@
       "location": "Mumbai, Maharashtra, India",
       "id": "jpm-210738305",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738305",
-      "posted": "2026-07-31",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Software Engineer III- Oracle Reporting ( OTBI / BIP)",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210764970",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764970",
       "posted": "2026-07-31",
       "source": "Careers site",
       "is_new": false
