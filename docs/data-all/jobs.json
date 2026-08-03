@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T06:19:50.836380+00:00",
+  "generated_at": "2026-08-03T06:46:32.386714+00:00",
   "location_filter": "Mumbai",
   "keywords": [],
   "note": "All open roles, no keyword filter. Banks are live-scraped; AMCs are aggregated best-effort from Naukri/Indeed, plus a manual LinkedIn search link.",
@@ -47,6 +47,46 @@
       "posted": "",
       "manual_check": true,
       "is_new": false
+    },
+    {
+      "company": "HSBC",
+      "title": "Assistant Vice President Service Culture Transformation",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774611803375",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774611803375",
+      "posted": 1783581564,
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "HSBC",
+      "title": "Enterprise Talent (Apprentice)",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774611993868",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774611993868",
+      "posted": 1784696729,
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "HSBC",
+      "title": "Head Transaction Services - Credit Operations",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612000219",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612000219",
+      "posted": 1784786489,
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "HSBC",
+      "title": "VP, CIB Business Risk",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612001656",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612001656",
+      "posted": 1784803699,
+      "source": "Careers site",
+      "is_new": true
     },
     {
       "company": "HSBC",
@@ -100,51 +140,11 @@
     },
     {
       "company": "HSBC",
-      "title": "Assistant Manager- Trade Mid- Office",
+      "title": "Assistant Manager - Client Operations",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774611889005",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774611889005",
-      "posted": 1784282709,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "Business Development",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774611990821",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774611990821",
-      "posted": 1784651006,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "Business Development Manager",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774611971526",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774611971526",
-      "posted": 1784539811,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "Manager Credit Services",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774611968461",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774611968461",
-      "posted": 1784533166,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "VP- Business Development and PMS",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774611977163",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774611977163",
-      "posted": 1784555931,
+      "id": "hsbc-563774611975792",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774611975792",
+      "posted": 1784550405,
       "source": "Careers site",
       "is_new": false
     },
@@ -161,13 +161,33 @@
     },
     {
       "company": "JPMorgan",
-      "title": "Lead Software Engineer- Java Fullstack",
+      "title": "Lead Software Engineer - Python Full Stack, AI/ML",
       "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210759191",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210759191",
-      "posted": "2026-07-31",
+      "id": "jpm-210746375",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746375",
+      "posted": "2026-08-03",
       "source": "Careers site",
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Sr. Principal Architect",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210770594",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770594",
+      "posted": "2026-08-03",
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Valuation Controller - Associate",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210771428",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771428",
+      "posted": "2026-08-03",
+      "source": "Careers site",
+      "is_new": true
     },
     {
       "company": "JPMorgan",

@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "company": "JPMorgan",
+    "title": "Lead Software Engineer - Python Full Stack, AI/ML",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210746375",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746375",
+    "posted": "2026-08-03",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Sr. Principal Architect",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210770594",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770594",
+    "posted": "2026-08-03",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Valuation Controller - Associate",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210771428",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771428",
+    "posted": "2026-08-03",
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Enterprise Talent (Apprentice)",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774611993868",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774611993868",
+    "posted": 1784696729,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "VP, CIB Business Risk",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612001656",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612001656",
+    "posted": 1784803699,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Assistant Vice President Service Culture Transformation",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774611803375",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774611803375",
+    "posted": 1783581564,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Head Transaction Services - Credit Operations",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612000219",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612000219",
+    "posted": 1784786489,
+    "source": "Careers site"
+  }
+]
