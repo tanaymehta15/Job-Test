@@ -1,65 +1,83 @@
 [
   {
     "company": "JPMorgan",
-    "title": "Lead Software Engineer - Python Full Stack, AI/ML",
+    "title": "Data Operations Analyst - Team Leader",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210746375",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746375",
+    "id": "jpm-210774682",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774682",
+    "posted": "2026-08-04",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Product Manager",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210774854",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774854",
+    "posted": "2026-08-04",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Trade Lifecycle Manager III",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210775209",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775209",
+    "posted": "2026-08-04",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Fraud Specialist I",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210722500",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210722500",
     "posted": "2026-08-03",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Sr. Principal Architect",
+    "title": "Software Engineer III-ETL, AWS, AI Software Engineer",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210770594",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770594",
+    "id": "jpm-210744051",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210744051",
     "posted": "2026-08-03",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Valuation Controller - Associate",
+    "title": "Collection Specialist I",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210771428",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771428",
+    "id": "jpm-210749773",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749773",
     "posted": "2026-08-03",
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "Enterprise Talent (Apprentice)",
+    "title": "AVP Product Control",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611993868",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611993868",
-    "posted": 1784696729,
+    "id": "hsbc-563774612000059",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612000059",
+    "posted": 1784786150,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "VP, CIB Business Risk",
+    "title": "Power2Her Associate",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612001656",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612001656",
-    "posted": 1784803699,
+    "id": "hsbc-563774611290092",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774611290092",
+    "posted": 1780323023,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "Assistant Vice President Service Culture Transformation",
+    "title": "Assistant Manager - Video Conferencing Identification Processing",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611803375",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611803375",
-    "posted": 1783581564,
-    "source": "Careers site"
-  },
-  {
-    "company": "HSBC",
-    "title": "Head Transaction Services - Credit Operations",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612000219",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612000219",
-    "posted": 1784786489,
+    "id": "hsbc-563774611967600",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774611967600",
+    "posted": 1784522941,
     "source": "Careers site"
   }
 ]
