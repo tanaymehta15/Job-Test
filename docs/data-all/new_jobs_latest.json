@@ -1,83 +1,65 @@
 [
   {
     "company": "JPMorgan",
-    "title": "Data Operations Analyst - Team Leader",
+    "title": "Lead Architect",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210774682",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774682",
+    "id": "jpm-210740750",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740750",
+    "posted": "2026-08-05",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Senior Internal Auditor - Associate",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210777300",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777300",
+    "posted": "2026-08-05",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Lead Software Engineer - Java Full Stack React",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210711865",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210711865",
     "posted": "2026-08-04",
     "source": "Careers site"
   },
   {
-    "company": "JPMorgan",
-    "title": "Product Manager",
+    "company": "HSBC",
+    "title": "Cost Management and Accounting CMA Intern",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210774854",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774854",
-    "posted": "2026-08-04",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Trade Lifecycle Manager III",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210775209",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775209",
-    "posted": "2026-08-04",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Fraud Specialist I",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210722500",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210722500",
-    "posted": "2026-08-03",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Software Engineer III-ETL, AWS, AI Software Engineer",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210744051",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210744051",
-    "posted": "2026-08-03",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Collection Specialist I",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210749773",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749773",
-    "posted": "2026-08-03",
+    "id": "hsbc-563774611775743",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774611775743",
+    "posted": 1783428137,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "AVP Product Control",
+    "title": "Assistant Manager - Video Conferencing Indentification Processing",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612000059",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612000059",
-    "posted": 1784786150,
+    "id": "hsbc-563774611968242",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774611968242",
+    "posted": 1784531392,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "Power2Her Associate",
+    "title": "VP - Propositions and Value Build",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611290092",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611290092",
-    "posted": 1780323023,
+    "id": "hsbc-563774612016407",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612016407",
+    "posted": 1785129216,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "Assistant Manager - Video Conferencing Identification Processing",
+    "title": "AVP Senior Premier Relationship Manager",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611967600",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611967600",
-    "posted": 1784522941,
+    "id": "hsbc-563774612026467",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612026467",
+    "posted": 1785310368,
     "source": "Careers site"
   }
 ]
