@@ -1,29 +1,56 @@
 [
   {
-    "company": "HSBC",
-    "title": "Sr. Associate Corporate Employer Banker, MSF",
+    "company": "JPMorgan",
+    "title": "Fund Servicing Associate",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612045149",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612045149",
-    "posted": 1785746351,
+    "id": "jpm-210778120",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778120",
+    "posted": "2026-08-10",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Private Investments Analytics- Associate",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210778150",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778150",
+    "posted": "2026-08-10",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Risk Analyst Structured Finance",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210778334",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778334",
+    "posted": "2026-08-10",
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "Senior Vice President, Treasury Solutions Group",
+    "title": "VP Institutional Sales",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611344589",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611344589",
-    "posted": 1780593239,
+    "id": "hsbc-563774612043495",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612043495",
+    "posted": 1785692825,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "Senior Vice President - Relationship Manager, GPB WI",
+    "title": "Universal Banker Leader",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774611624667",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774611624667",
-    "posted": 1782288209,
+    "id": "hsbc-563774612040014",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612040014",
+    "posted": 1785571369,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "AM OI Operations",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612040018",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612040018",
+    "posted": 1785572325,
     "source": "Careers site"
   }
 ]

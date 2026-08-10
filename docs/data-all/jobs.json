@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T04:49:35.256142+00:00",
+  "generated_at": "2026-08-10T05:09:01.915226+00:00",
   "location_filter": "Mumbai",
   "keywords": [],
   "note": "All open roles, no keyword filter. Banks are live-scraped; AMCs are aggregated best-effort from Naukri/Indeed, plus a manual LinkedIn search link.",
@@ -50,33 +50,43 @@
     },
     {
       "company": "HSBC",
-      "title": "Senior Vice President - Relationship Manager, GPB WI",
+      "title": "AM OI Operations",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774611624667",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774611624667",
-      "posted": 1782288209,
+      "id": "hsbc-563774612040018",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612040018",
+      "posted": 1785572325,
       "source": "Careers site",
       "is_new": true
     },
     {
       "company": "HSBC",
-      "title": "Senior Vice President, Treasury Solutions Group",
+      "title": "Universal Banker Leader",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774611344589",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774611344589",
-      "posted": 1780593239,
+      "id": "hsbc-563774612040014",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612040014",
+      "posted": 1785571369,
       "source": "Careers site",
       "is_new": true
     },
     {
       "company": "HSBC",
-      "title": "Sr. Associate Corporate Employer Banker, MSF",
+      "title": "VP Institutional Sales",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612045149",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612045149",
-      "posted": 1785746351,
+      "id": "hsbc-563774612043495",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612043495",
+      "posted": 1785692825,
       "source": "Careers site",
       "is_new": true
+    },
+    {
+      "company": "HSBC",
+      "title": "AM Premier Services",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612040004",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612040004",
+      "posted": 1785570064,
+      "source": "Careers site",
+      "is_new": false
     },
     {
       "company": "HSBC",
@@ -85,6 +95,16 @@
       "id": "hsbc-563774612026467",
       "url": "https://portal.careers.hsbc.com/careers/job/563774612026467",
       "posted": 1785310368,
+      "source": "Careers site",
+      "is_new": false
+    },
+    {
+      "company": "HSBC",
+      "title": "Assistant Manager, Operations",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774611424730",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774611424730",
+      "posted": 1780984379,
       "source": "Careers site",
       "is_new": false
     },
@@ -120,26 +140,6 @@
     },
     {
       "company": "HSBC",
-      "title": "Manager - Operations",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774611805790",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774611805790",
-      "posted": 1783605557,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "Power2Her Associate",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774611290092",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774611290092",
-      "posted": 1780323023,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
       "title": "VP - Propositions and Value Build",
       "location": "Mumbai, Maharashtra, India",
       "id": "hsbc-563774612016407",
@@ -161,13 +161,33 @@
     },
     {
       "company": "JPMorgan",
-      "title": "Trade Services Associate I",
+      "title": "Fund Servicing Associate",
       "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210761197",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761197",
-      "posted": "2026-08-07",
+      "id": "jpm-210778120",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778120",
+      "posted": "2026-08-10",
       "source": "Careers site",
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Private Investments Analytics- Associate",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210778150",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778150",
+      "posted": "2026-08-10",
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Risk Analyst Structured Finance",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210778334",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778334",
+      "posted": "2026-08-10",
+      "source": "Careers site",
+      "is_new": true
     },
     {
       "company": "Kotak Mahindra Asset Management",
