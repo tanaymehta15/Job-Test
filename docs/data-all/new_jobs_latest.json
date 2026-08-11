@@ -1,56 +1,47 @@
 [
   {
     "company": "JPMorgan",
-    "title": "Fund Servicing Associate",
+    "title": "India Direct Custody Operations - Associate",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210778120",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778120",
+    "id": "jpm-210771173",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771173",
+    "posted": "2026-08-11",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Associate - Recruiting",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210778993",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778993",
+    "posted": "2026-08-11",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Lead Software Engineer - Java Full Stack",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210765571",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765571",
     "posted": "2026-08-10",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Private Investments Analytics- Associate",
+    "title": "Control Manager – Associate, Treasury and Chief Investment Office",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210778150",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778150",
-    "posted": "2026-08-10",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Risk Analyst Structured Finance",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210778334",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778334",
+    "id": "jpm-210766879",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766879",
     "posted": "2026-08-10",
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "VP Institutional Sales",
+    "title": "Analyst",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612043495",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612043495",
-    "posted": 1785692825,
-    "source": "Careers site"
-  },
-  {
-    "company": "HSBC",
-    "title": "Universal Banker Leader",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612040014",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612040014",
-    "posted": 1785571369,
-    "source": "Careers site"
-  },
-  {
-    "company": "HSBC",
-    "title": "AM OI Operations",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612040018",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612040018",
-    "posted": 1785572325,
+    "id": "hsbc-563774612057919",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612057919",
+    "posted": 1785862619,
     "source": "Careers site"
   }
 ]
