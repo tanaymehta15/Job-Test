@@ -1,65 +1,29 @@
 [
   {
     "company": "JPMorgan",
-    "title": "Account & SSI Platform - Product Owner - Vice President",
+    "title": "Software Engineer II",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210777938",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777938",
+    "id": "jpm-210762866",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762866",
+    "posted": "2026-08-13",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Associate Product Development",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210779567",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779567",
+    "posted": "2026-08-13",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "India Branch Senior Fixed Income & Bonds Settlement Operations - Associate",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210749764",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749764",
     "posted": "2026-08-12",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Business UAT Analyst -1",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210779005",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779005",
-    "posted": "2026-08-12",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Quant Analytics Associate - Time Series Forecasting Strategist - Workforce Planning",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210707244",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707244",
-    "posted": "2026-08-11",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Lead Software Engineer - Python, SQL",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210756701",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210756701",
-    "posted": "2026-08-11",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Software Engineer III  - Java Full Stack Developer + React + AI",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210763816",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763816",
-    "posted": "2026-08-11",
-    "source": "Careers site"
-  },
-  {
-    "company": "HSBC",
-    "title": "VP - WPB Business Finance",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612069111",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612069111",
-    "posted": 1785930134,
-    "source": "Careers site"
-  },
-  {
-    "company": "HSBC",
-    "title": "Universal Banker",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612069888",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612069888",
-    "posted": 1785939499,
     "source": "Careers site"
   }
 ]
