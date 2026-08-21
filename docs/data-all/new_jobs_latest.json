@@ -1,38 +1,65 @@
 [
   {
     "company": "JPMorgan",
-    "title": "Associate - Senior Auditor - Corporate Investment Banking",
+    "title": "Centralized Research Group - Security & Resiliency Initiative - Vice President",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210779418",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779418",
+    "id": "jpm-210735710",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210735710",
     "posted": "2026-08-20",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Senior Lead Software Engineer - Java, Kafka, Cloud",
+    "title": "Lead Software Engineer - Java and AI/ML",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210718313",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718313",
-    "posted": "2026-08-19",
+    "id": "jpm-210748526",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748526",
+    "posted": "2026-08-20",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Lead Software Engineer - Java, SpringBoot, AWS",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210753695",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210753695",
+    "posted": "2026-08-20",
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "Vice President and Branch Sales Manager",
+    "title": "Manager, Operations DCC",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612123788",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612123788",
-    "posted": 1786985437,
+    "id": "hsbc-563774612136550",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612136550",
+    "posted": 1787133329,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "Clearing and Settlements Processor - Apprentice (12 Months)",
+    "title": "Assistant Manager, Operations DCC",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612125662",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612125662",
-    "posted": 1787033151,
+    "id": "hsbc-563774612136549",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612136549",
+    "posted": 1787133912,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Business Analytics",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612096339",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612096339",
+    "posted": 1786421865,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Marketing Campaigns",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612097580",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612097580",
+    "posted": 1786440371,
     "source": "Careers site"
   }
 ]
