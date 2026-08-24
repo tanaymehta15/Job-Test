@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T04:20:43.589068+00:00",
+  "generated_at": "2026-08-24T04:26:30.649932+00:00",
   "location_filter": "Mumbai",
   "keywords": [],
   "note": "All open roles, no keyword filter. Banks are live-scraped; AMCs are aggregated best-effort from Naukri/Indeed, plus a manual LinkedIn search link.",
@@ -50,13 +50,13 @@
     },
     {
       "company": "HSBC",
-      "title": "Corporate Banking Manager",
+      "title": "AVP - Assoc Rel Support Mgr - BB",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612144049",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612144049",
-      "posted": 1787290832,
+      "id": "hsbc-563774612116522",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612116522",
+      "posted": 1786700520,
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "HSBC",
@@ -65,6 +65,16 @@
       "id": "hsbc-563774612096417",
       "url": "https://portal.careers.hsbc.com/careers/job/563774612096417",
       "posted": 1786424457,
+      "source": "Careers site",
+      "is_new": false
+    },
+    {
+      "company": "HSBC",
+      "title": "Assistant Manager Sales and Distribution - Apprentice (12 Months)",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612123228",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612123228",
+      "posted": 1786975326,
       "source": "Careers site",
       "is_new": false
     },
@@ -80,11 +90,21 @@
     },
     {
       "company": "HSBC",
-      "title": "Internal Auditor",
+      "title": "Clearing and Settlements Processor - Apprentice (12 Months)",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612111630",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612111630",
-      "posted": 1786618790,
+      "id": "hsbc-563774612125662",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612125662",
+      "posted": 1787033151,
+      "source": "Careers site",
+      "is_new": false
+    },
+    {
+      "company": "HSBC",
+      "title": "Power2Her Associate",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774611290092",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774611290092",
+      "posted": 1780323023,
       "source": "Careers site",
       "is_new": false
     },
@@ -100,31 +120,21 @@
     },
     {
       "company": "HSBC",
-      "title": "Senior Vice President, Treasury Solutions Group",
+      "title": "SVP Sales and Distribution",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774611344589",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774611344589",
-      "posted": 1780593239,
+      "id": "hsbc-563774612122833",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612122833",
+      "posted": 1786967731,
       "source": "Careers site",
       "is_new": false
     },
     {
       "company": "HSBC",
-      "title": "Universal Banker",
+      "title": "Senior Audit Manager - DBS Ops",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612101389",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612101389",
-      "posted": 1786520365,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "VP - Propositions and Value Build",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612016407",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612016407",
-      "posted": 1785129216,
+      "id": "hsbc-563774612122832",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612122832",
+      "posted": 1786966608,
       "source": "Careers site",
       "is_new": false
     },
@@ -139,16 +149,6 @@
       "is_new": false
     },
     {
-      "company": "HSBC",
-      "title": "Vice President MNC Banking",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612144096",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612144096",
-      "posted": 1787291717,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
       "company": "ICICI Prudential Asset Management",
       "source": "LinkedIn",
       "title": "Manual check (LinkedIn isn't auto-scraped, see adapters_amc.py)",
@@ -157,16 +157,6 @@
       "url": "https://www.linkedin.com/jobs/search/?keywords=ICICI%20Prudential%20Asset%20Management&location=Mumbai%2C%20India",
       "posted": "",
       "manual_check": true,
-      "is_new": false
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Payments Planning and Analysis Developer - Associate",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210762768",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762768",
-      "posted": "2026-08-21",
-      "source": "Careers site",
       "is_new": false
     },
     {
