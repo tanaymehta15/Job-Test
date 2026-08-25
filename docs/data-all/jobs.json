@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T04:26:30.649932+00:00",
+  "generated_at": "2026-08-25T04:21:30.899295+00:00",
   "location_filter": "Mumbai",
   "keywords": [],
   "note": "All open roles, no keyword filter. Banks are live-scraped; AMCs are aggregated best-effort from Naukri/Indeed, plus a manual LinkedIn search link.",
@@ -50,11 +50,21 @@
     },
     {
       "company": "HSBC",
-      "title": "AVP - Assoc Rel Support Mgr - BB",
+      "title": "AVP - Premier Financial Consultant",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612116522",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612116522",
-      "posted": 1786700520,
+      "id": "hsbc-563774612101108",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612101108",
+      "posted": 1786517512,
+      "source": "Careers site",
+      "is_new": false
+    },
+    {
+      "company": "HSBC",
+      "title": "AVP Senior Premier Relationship Manager",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612101227",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612101227",
+      "posted": 1786518442,
       "source": "Careers site",
       "is_new": false
     },
@@ -70,41 +80,31 @@
     },
     {
       "company": "HSBC",
-      "title": "Assistant Manager Sales and Distribution - Apprentice (12 Months)",
+      "title": "Associate Director - Institutional Client Group",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612123228",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612123228",
-      "posted": 1786975326,
+      "id": "hsbc-563774612102859",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612102859",
+      "posted": 1786534308,
       "source": "Careers site",
       "is_new": false
     },
     {
       "company": "HSBC",
-      "title": "Assistant Vice President Asset Specialist LG, MSF",
+      "title": "Business Analytics",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774611695246",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774611695246",
-      "posted": 1782902453,
+      "id": "hsbc-563774612096339",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612096339",
+      "posted": 1786421865,
       "source": "Careers site",
       "is_new": false
     },
     {
       "company": "HSBC",
-      "title": "Clearing and Settlements Processor - Apprentice (12 Months)",
+      "title": "Marketing Campaigns",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612125662",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612125662",
-      "posted": 1787033151,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "Power2Her Associate",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774611290092",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774611290092",
-      "posted": 1780323023,
+      "id": "hsbc-563774612097580",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612097580",
+      "posted": 1786440371,
       "source": "Careers site",
       "is_new": false
     },
@@ -120,21 +120,21 @@
     },
     {
       "company": "HSBC",
-      "title": "SVP Sales and Distribution",
+      "title": "Senior Vice President, Treasury Solutions Group",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612122833",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612122833",
-      "posted": 1786967731,
+      "id": "hsbc-563774611344589",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774611344589",
+      "posted": 1780593239,
       "source": "Careers site",
       "is_new": false
     },
     {
       "company": "HSBC",
-      "title": "Senior Audit Manager - DBS Ops",
+      "title": "Universal Banker",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612122832",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612122832",
-      "posted": 1786966608,
+      "id": "hsbc-563774612101389",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612101389",
+      "posted": 1786520365,
       "source": "Careers site",
       "is_new": false
     },
@@ -158,6 +158,36 @@
       "posted": "",
       "manual_check": true,
       "is_new": false
+    },
+    {
+      "company": "JPMorgan",
+      "title": "CIB Risk Associate",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210771857",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771857",
+      "posted": "2026-08-24",
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Data Engineer III",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210775258",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775258",
+      "posted": "2026-08-24",
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Private Banking Sales Business Intelligence Analyst",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210712656",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210712656",
+      "posted": "2026-08-24",
+      "source": "Careers site",
+      "is_new": true
     },
     {
       "company": "Kotak Mahindra Asset Management",
