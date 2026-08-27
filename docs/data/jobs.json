@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T04:10:01.730733+00:00",
+  "generated_at": "2026-08-27T14:28:35.634537+00:00",
   "location_filter": "Mumbai",
   "keywords": [
     "Equity",
@@ -36,15 +36,6 @@
       "posted": "",
       "manual_check": true,
       "is_new": false
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Associate - Equity Research - EU Tech",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210783982",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783982",
-      "posted": "2026-08-25",
-      "is_new": true
     }
   ]
 }
