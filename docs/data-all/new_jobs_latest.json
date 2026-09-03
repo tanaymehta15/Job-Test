@@ -1,56 +1,110 @@
 [
   {
     "company": "JPMorgan",
-    "title": "Software Engineer II - Java",
+    "title": "Lead Software Engineer - Java",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210746871",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746871",
-    "posted": "2026-09-02",
+    "id": "jpm-210773272",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773272",
+    "posted": "2026-09-03",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Lead Software Engineer",
+    "title": "Associate - Managed Solutions Specialist",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210754985",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754985",
-    "posted": "2026-09-02",
+    "id": "jpm-210779073",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779073",
+    "posted": "2026-09-03",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Software Engineer III",
+    "title": "Product Manager",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210780009",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780009",
-    "posted": "2026-09-02",
+    "id": "jpm-210783031",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783031",
+    "posted": "2026-09-03",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Software Engineer III - DevOps",
+    "title": "Payment Lifecycle Specialist",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210783949",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783949",
-    "posted": "2026-09-02",
+    "id": "jpm-210784130",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784130",
+    "posted": "2026-09-03",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
     "title": "Payments Regulatory Reporting Operations - Analyst",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210784360",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784360",
-    "posted": "2026-09-02",
+    "id": "jpm-210784359",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784359",
+    "posted": "2026-09-03",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Software Engineer III - JAVA Backend, Kafka, JSON",
+    "title": "Valuation Controller - Associate",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210746404",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746404",
-    "posted": "2026-09-01",
+    "id": "jpm-210784508",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784508",
+    "posted": "2026-09-03",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Payment Lifecycle Specialist",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210786079",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786079",
+    "posted": "2026-09-03",
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "CA Industrial Trainee",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612167017",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612167017",
+    "posted": 1787801166,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Client Relationship Support",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612195645",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612195645",
+    "posted": 1788340763,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Intern-Apprentice-12 Months",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612195890",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612195890",
+    "posted": 1788343902,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Client Relationship Support-Apprentice-12 Months",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612195891",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612195891",
+    "posted": 1788343306,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Vice President - EcoSystems and Partnerships",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612201670",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612201670",
+    "posted": 1788364276,
     "source": "Careers site"
   }
 ]
