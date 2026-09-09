@@ -1,29 +1,47 @@
 [
   {
     "company": "JPMorgan",
-    "title": "Payment Lifecycle Manager - Vice President",
+    "title": "Regulatory Reporting Analyst",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210784005",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784005",
-    "posted": "2026-09-08",
+    "id": "jpm-210787090",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787090",
+    "posted": "2026-09-09",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Payment Lifecycle Manager - Vice President",
+    "title": "Payment Lifecycle Manager I",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210786097",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786097",
+    "id": "jpm-210761795",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761795",
     "posted": "2026-09-08",
     "source": "Careers site"
   },
   {
-    "company": "JPMorgan",
-    "title": "Software Engineer III-Java Full Stack",
+    "company": "HSBC",
+    "title": "Associate",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210787058",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787058",
-    "posted": "2026-09-08",
+    "id": "hsbc-563774612200828",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612200828",
+    "posted": 1788351265,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "AVP - Premier Financial Consultant",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612202903",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612202903",
+    "posted": 1788412443,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Credit Risk Generalist",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774610987754",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774610987754",
+    "posted": 1778585224,
     "source": "Careers site"
   }
 ]
