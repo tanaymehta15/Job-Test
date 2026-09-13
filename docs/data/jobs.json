@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T08:04:36.589054+00:00",
+  "generated_at": "2026-09-13T08:29:13.016128+00:00",
   "location_filter": "Mumbai",
   "keywords": [
     "Equity",
@@ -39,19 +39,19 @@
     },
     {
       "company": "JPMorgan",
-      "title": "Asset Management – Global Real Estate Investment Specialist - Analyst",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210788905",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788905",
-      "posted": "2026-09-11",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
       "title": "Asset Management - European Tech- Equity Research",
       "location": "Mumbai, Maharashtra, India",
       "id": "jpm-210783982",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783982",
+      "posted": "2026-09-11",
+      "is_new": false
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Asset Management – Global Real Estate Investment Specialist - Analyst",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210788905",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788905",
       "posted": "2026-09-11",
       "is_new": false
     }
