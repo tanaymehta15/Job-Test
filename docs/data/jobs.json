@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T09:11:18.088864+00:00",
+  "generated_at": "2026-09-15T08:53:35.527770+00:00",
   "location_filter": "Mumbai",
   "keywords": [
     "Equity",
@@ -35,24 +35,6 @@
       "url": "https://careers.bankofamerica.com/en-us/job-search?ss=&q=Investment%20Banking",
       "posted": "",
       "manual_check": true,
-      "is_new": false
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Asset Management - European Tech- Equity Research",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210783982",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783982",
-      "posted": "2026-09-11",
-      "is_new": false
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Asset Management – Global Real Estate Investment Specialist - Analyst",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210788905",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788905",
-      "posted": "2026-09-11",
       "is_new": false
     }
   ]
