@@ -1,20 +1,56 @@
 [
   {
     "company": "JPMorgan",
-    "title": "Custody Operations - Asset Servicing Analyst",
+    "title": "Associate - Business Manager",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210790240",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790240",
-    "posted": "2026-09-14",
+    "id": "jpm-210778650",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778650",
+    "posted": "2026-09-15",
     "source": "Careers site"
   },
   {
-    "company": "HSBC",
-    "title": "International Product Support (Apprentice- 12 Months)",
+    "company": "JPMorgan",
+    "title": "Java Backend Developer with SQL and AWS (Software Engineer II)",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612228337",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612228337",
-    "posted": 1788866149,
+    "id": "jpm-210781991",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781991",
+    "posted": "2026-09-15",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Software Engineer II -Python, Observability, OTel, Dynatrace",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210785656",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785656",
+    "posted": "2026-09-15",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Software Engineer III - Java Developer + AI + LLM",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210788195",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788195",
+    "posted": "2026-09-15",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "CAO F&BM India Finance Lead - Vice President",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210788766",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788766",
+    "posted": "2026-09-15",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Asset Servicing Specialist",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210788807",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788807",
+    "posted": "2026-09-15",
     "source": "Careers site"
   }
 ]
