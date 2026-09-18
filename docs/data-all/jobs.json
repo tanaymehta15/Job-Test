@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T08:53:44.828547+00:00",
+  "generated_at": "2026-09-18T08:28:56.881907+00:00",
   "location_filter": "Mumbai",
   "keywords": [],
   "note": "All open roles, no keyword filter. Banks are live-scraped; AMCs are aggregated best-effort from Naukri/Indeed, plus a manual LinkedIn search link.",
@@ -50,6 +50,16 @@
     },
     {
       "company": "HSBC",
+      "title": "AVP Product Control",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612000059",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612000059",
+      "posted": 1784786150,
+      "source": "Careers site",
+      "is_new": false
+    },
+    {
+      "company": "HSBC",
       "title": "Business Development",
       "location": "Mumbai, Maharashtra, India",
       "id": "hsbc-563774612229796",
@@ -60,31 +70,11 @@
     },
     {
       "company": "HSBC",
-      "title": "CA Industrial Trainee",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612167017",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612167017",
-      "posted": 1787801166,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
       "title": "Client Relationship Support",
       "location": "Mumbai, Maharashtra, India",
       "id": "hsbc-563774612225655",
       "url": "https://portal.careers.hsbc.com/careers/job/563774612225655",
       "posted": 1788843675,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "Credit Risk Generalist",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774610987754",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774610987754",
-      "posted": 1778585224,
       "source": "Careers site",
       "is_new": false
     },
@@ -130,11 +120,21 @@
     },
     {
       "company": "HSBC",
-      "title": "VP, CIB Business Risk",
+      "title": "Senior Vice President, Head of Transaction Services, Credit Operations",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612001656",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612001656",
-      "posted": 1784803699,
+      "id": "hsbc-563774612230998",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612230998",
+      "posted": 1788936544,
+      "source": "Careers site",
+      "is_new": false
+    },
+    {
+      "company": "HSBC",
+      "title": "VP Data management (CIB Business)",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774611432287",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774611432287",
+      "posted": 1781064043,
       "source": "Careers site",
       "is_new": false
     },
@@ -161,13 +161,73 @@
     },
     {
       "company": "JPMorgan",
-      "title": "Payments Regulatory Reporting Operations -  Intake & Horizon Scanning",
+      "title": "Digital Client Services - Product Associate",
       "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210780906",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780906",
-      "posted": "2026-09-16",
+      "id": "jpm-210767994",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767994",
+      "posted": "2026-09-17",
       "source": "Careers site",
       "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Director of Software Engineering",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210779243",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779243",
+      "posted": "2026-09-18",
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Financial Controller - Analyst",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210779170",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779170",
+      "posted": "2026-09-17",
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Global Banking Client and Deal Support - Credit Product Delivery – Executive Director",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210791995",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791995",
+      "posted": "2026-09-18",
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Tech Risk and Controls Senior Associate",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210789730",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789730",
+      "posted": "2026-09-18",
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Assistant Vice President - Legal Discovery Management",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210772775",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772775",
+      "posted": "2026-09-17",
+      "source": "Careers site",
+      "is_new": false
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Quant Analytics Associate - Time Series Forecasting Strategist - Workforce Planning",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210707244",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707244",
+      "posted": "2026-09-17",
+      "source": "Careers site",
+      "is_new": false
     },
     {
       "company": "JPMorgan",
@@ -176,36 +236,6 @@
       "id": "jpm-210767447",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767447",
       "posted": "2026-09-17",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "WCR Portfolio Analytics - Associate",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210790355",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790355",
-      "posted": "2026-09-17",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Wholesales KYC Operations - Exam Management - Analyst",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210785589",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785589",
-      "posted": "2026-09-17",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Investments Governance – Associate",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210776743",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776743",
-      "posted": "2026-09-16",
       "source": "Careers site",
       "is_new": false
     },

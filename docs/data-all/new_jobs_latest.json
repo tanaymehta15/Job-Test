@@ -1,38 +1,47 @@
 [
   {
     "company": "JPMorgan",
-    "title": "Software Engineer III - React, TypeScript",
+    "title": "Director of Software Engineering",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210767447",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767447",
+    "id": "jpm-210779243",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779243",
+    "posted": "2026-09-18",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Tech Risk and Controls Senior Associate",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210789730",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789730",
+    "posted": "2026-09-18",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Global Banking Client and Deal Support - Credit Product Delivery – Executive Director",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210791995",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791995",
+    "posted": "2026-09-18",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Digital Client Services - Product Associate",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210767994",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767994",
     "posted": "2026-09-17",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Wholesales KYC Operations - Exam Management - Analyst",
+    "title": "Financial Controller - Analyst",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210785589",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785589",
+    "id": "jpm-210779170",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779170",
     "posted": "2026-09-17",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "WCR Portfolio Analytics - Associate",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210790355",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790355",
-    "posted": "2026-09-17",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Payments Regulatory Reporting Operations -  Intake & Horizon Scanning",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210780906",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780906",
-    "posted": "2026-09-16",
     "source": "Careers site"
   }
 ]
