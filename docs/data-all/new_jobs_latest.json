@@ -1,47 +1,83 @@
 [
   {
     "company": "JPMorgan",
-    "title": "Director of Software Engineering",
+    "title": "Lead Software Engineer - Java, Spring Boot",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210779243",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779243",
+    "id": "jpm-210770656",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770656",
     "posted": "2026-09-18",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Tech Risk and Controls Senior Associate",
+    "title": "Associate - Risk Management & Compliance  Business Management",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210789730",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789730",
+    "id": "jpm-210771033",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771033",
     "posted": "2026-09-18",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Global Banking Client and Deal Support - Credit Product Delivery – Executive Director",
+    "title": "Lead Software Engineer Java , React , AWS",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210791995",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791995",
+    "id": "jpm-210772077",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772077",
     "posted": "2026-09-18",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Digital Client Services - Product Associate",
+    "title": "Lead Site Reliability Engineer",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210767994",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767994",
-    "posted": "2026-09-17",
+    "id": "jpm-210778688",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778688",
+    "posted": "2026-09-18",
     "source": "Careers site"
   },
   {
-    "company": "JPMorgan",
-    "title": "Financial Controller - Analyst",
+    "company": "HSBC",
+    "title": "SVP FP&A",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210779170",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779170",
-    "posted": "2026-09-17",
+    "id": "hsbc-563774612273458",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612273458",
+    "posted": 1789551410,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "AVP - Premier Financial Consultant",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612287496",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612287496",
+    "posted": 1789640461,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "AVP - Premier Financial Consultant",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612287497",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612287497",
+    "posted": 1789640076,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Regional Support and Operations Member",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612284345",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612284345",
+    "posted": 1789625135,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Project Manager, Client Connectivity",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612291239",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612291239",
+    "posted": 1789653676,
     "source": "Careers site"
   }
 ]
