@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T08:25:56.630709+00:00",
+  "generated_at": "2026-09-19T08:13:42.911886+00:00",
   "location_filter": "Mumbai",
   "keywords": [
     "Equity",
@@ -36,6 +36,15 @@
       "posted": "",
       "manual_check": true,
       "is_new": false
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Equity Research Analyst - Global Research Center, Mumbai",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210791098",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791098",
+      "posted": "2026-09-18",
+      "is_new": true
     }
   ]
 }
