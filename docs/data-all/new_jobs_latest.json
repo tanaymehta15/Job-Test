@@ -1,20 +1,47 @@
 [
   {
-    "company": "HSBC",
-    "title": "CA Intern",
+    "company": "JPMorgan",
+    "title": "Site Reliability Engineer III",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612243419",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612243419",
-    "posted": 1789124999,
+    "id": "jpm-210791164",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791164",
+    "posted": "2026-09-21",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Software Engineer III - SAP ABAP, Fiori, RAP",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210791264",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791264",
+    "posted": "2026-09-21",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Fund Servicing Manager",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210792031",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792031",
+    "posted": "2026-09-21",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Associate – Quality Assurance(CAO Controls Management)",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210791181",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791181",
+    "posted": "2026-09-20",
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "Analyst, Markets Treasury, India",
+    "title": "Intern - Talent Acquisition (Apprentice - 12 Months)",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612291268",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612291268",
-    "posted": 1789655374,
+    "id": "hsbc-563774612229759",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612229759",
+    "posted": 1788891438,
     "source": "Careers site"
   }
 ]
