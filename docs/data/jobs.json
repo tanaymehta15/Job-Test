@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T08:40:47.114051+00:00",
+  "generated_at": "2026-09-25T09:01:17.035935+00:00",
   "location_filter": "Mumbai",
   "keywords": [
     "Equity",
@@ -35,6 +35,15 @@
       "url": "https://careers.bankofamerica.com/en-us/job-search?ss=&q=Investment%20Banking",
       "posted": "",
       "manual_check": true,
+      "is_new": false
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Associate - Legal - Asset Management",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210761094",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761094",
+      "posted": "2026-09-24",
       "is_new": false
     }
   ]
