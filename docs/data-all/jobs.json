@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T10:08:55.255334+00:00",
+  "generated_at": "2026-09-29T10:07:14.506134+00:00",
   "location_filter": "Mumbai",
   "keywords": [],
   "note": "All open roles, no keyword filter. Banks are live-scraped; AMCs are aggregated best-effort from Naukri/Indeed, plus a manual LinkedIn search link.",
@@ -50,51 +50,51 @@
     },
     {
       "company": "HSBC",
+      "title": "CA Industrial Trainee",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612237487",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612237487",
+      "posted": 1789023360,
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "HSBC",
       "title": "AM OI Operations",
       "location": "Mumbai, Maharashtra, India",
       "id": "hsbc-563774612353737",
       "url": "https://portal.careers.hsbc.com/careers/job/563774612353737",
       "posted": 1790420329,
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "HSBC",
-      "title": "BI Visualisation Development",
+      "title": "AVP - Premier Financial Consultant",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612332661",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612332661",
-      "posted": 1790233377,
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "HSBC",
-      "title": "Assistant Manager - Client Operations (Apprentice - 12 Months)",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612241498",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612241498",
-      "posted": 1789088138,
+      "id": "hsbc-563774612287496",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612287496",
+      "posted": 1789640461,
       "source": "Careers site",
       "is_new": false
     },
     {
       "company": "HSBC",
-      "title": "Assistant Manager Sales and Distribution - Apprentice (12 Months)",
+      "title": "AVP - Premier Financial Consultant",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612123228",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612123228",
-      "posted": 1786975326,
+      "id": "hsbc-563774612287497",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612287497",
+      "posted": 1789640076,
       "source": "Careers site",
       "is_new": false
     },
     {
       "company": "HSBC",
-      "title": "Business Analytics",
+      "title": "AVP Operations Support",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612096339",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612096339",
-      "posted": 1786421865,
+      "id": "hsbc-563774611804430",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774611804430",
+      "posted": 1783589652,
       "source": "Careers site",
       "is_new": false
     },
@@ -130,11 +130,11 @@
     },
     {
       "company": "HSBC",
-      "title": "Power2Her Associate",
+      "title": "SVP FP&A",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774611290092",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774611290092",
-      "posted": 1780323023,
+      "id": "hsbc-563774612273458",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612273458",
+      "posted": 1789551410,
       "source": "Careers site",
       "is_new": false
     },
@@ -161,43 +161,33 @@
     },
     {
       "company": "JPMorgan",
-      "title": "Analyst - Software Engineer I - AI/ML, Java/Python, REACT",
+      "title": "Associate Analytics Solutions",
       "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210795285",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795285",
+      "id": "jpm-210794364",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794364",
+      "posted": "2026-09-29",
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Human Resources Business Advisor, Vice President",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210790239",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790239",
+      "posted": "2026-09-29",
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Research Analyst - Global Research Center, Mumbai",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210752124",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752124",
       "posted": "2026-09-28",
       "source": "Careers site",
       "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Credit Risk Management Governance Lead",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210778204",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778204",
-      "posted": "2026-09-27",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "CIB_Global Finance and Business Management_WCR Mumbai Business Manager",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210794864",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794864",
-      "posted": "2026-09-26",
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "JPMorgan",
-      "title": "India Direct Custody Operations - Associate",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210785335",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785335",
-      "posted": "2026-09-26",
-      "source": "Careers site",
-      "is_new": false
     },
     {
       "company": "JPMorgan",
