@@ -1,38 +1,137 @@
 [
   {
     "company": "JPMorgan",
-    "title": "Human Resources Business Advisor, Vice President",
+    "title": "Account Specialist I",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210790239",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790239",
-    "posted": "2026-09-29",
+    "id": "jpm-210722431",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210722431",
+    "posted": "2026-09-30",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Associate Analytics Solutions",
+    "title": "Specialty Product Associate II",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210794364",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794364",
-    "posted": "2026-09-29",
+    "id": "jpm-210783080",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783080",
+    "posted": "2026-09-30",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Research Analyst - Global Research Center, Mumbai",
+    "title": "Lead Software Engineer - Java Fullstack, AWS",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210752124",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752124",
-    "posted": "2026-09-28",
+    "id": "jpm-210784396",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784396",
+    "posted": "2026-09-30",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Software Engineer II - Agentic AI, Java , AWS , Springboot , Kafka",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210788631",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788631",
+    "posted": "2026-09-30",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Software Engineer II - Agentic AI, Java , AWS , Springboot , Kafka",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210788638",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788638",
+    "posted": "2026-09-30",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Payment Lifecycle Manager - Vice President",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210793103",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793103",
+    "posted": "2026-09-30",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Lead Software Engineer Java, Python and Databricks",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210793430",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793430",
+    "posted": "2026-09-30",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Lead Software Engineer - Java, SpringBoot, AWS",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210793876",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793876",
+    "posted": "2026-09-30",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Associate - Platform and Data Management Operations",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210794845",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794845",
+    "posted": "2026-09-30",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Sr Lead Software Engineer",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210795410",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795410",
+    "posted": "2026-09-30",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Software Engineer III - Python and React",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210771474",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771474",
+    "posted": "2026-09-29",
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Chief Technology Officer (CTO) - Asset Management",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612365640",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612365640",
+    "posted": 1790614932,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Assistant Manager Sales and Distribution - Apprentice (12 Months)",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612365747",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612365747",
+    "posted": 1790617206,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Assistant Manager - Client Operations",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612365689",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612365689",
+    "posted": 1790615710,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
     "title": "CA Industrial Trainee",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612237487",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612237487",
-    "posted": 1789023360,
+    "id": "hsbc-563774612362200",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612362200",
+    "posted": 1790605574,
     "source": "Careers site"
   }
 ]
