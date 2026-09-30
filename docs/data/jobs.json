@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T10:03:17.619650+00:00",
+  "generated_at": "2026-09-30T09:56:00.548572+00:00",
   "location_filter": "Mumbai",
   "keywords": [
     "Equity",
@@ -36,6 +36,15 @@
       "posted": "",
       "manual_check": true,
       "is_new": false
+    },
+    {
+      "company": "HSBC",
+      "title": "Chief Technology Officer (CTO) - Asset Management",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612365640",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612365640",
+      "posted": 1790614932,
+      "is_new": true
     }
   ]
 }
