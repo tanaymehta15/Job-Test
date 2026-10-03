@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:59:02.083702+00:00",
+  "generated_at": "2026-10-03T09:21:44.841786+00:00",
   "location_filter": "Mumbai",
   "keywords": [
     "Equity",
@@ -44,15 +44,6 @@
       "id": "hsbc-563774612365640",
       "url": "https://portal.careers.hsbc.com/careers/job/563774612365640",
       "posted": 1790614932,
-      "is_new": false
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Asset Management - European Tech- Equity Research",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210783982",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783982",
-      "posted": "2026-10-01",
       "is_new": false
     }
   ]
