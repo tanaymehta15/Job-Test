@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T10:45:42.641438+00:00",
+  "generated_at": "2026-10-06T10:39:03.155373+00:00",
   "location_filter": "Mumbai",
   "keywords": [
     "Equity",
@@ -39,20 +39,20 @@
     },
     {
       "company": "HSBC",
-      "title": "Senior Audit Manager, Asset Management and Insurance",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612387906",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612387906",
-      "posted": 1790869624,
-      "is_new": true
-    },
-    {
-      "company": "HSBC",
       "title": "Chief Technology Officer (CTO) - Asset Management",
       "location": "Mumbai, Maharashtra, India",
       "id": "hsbc-563774612365640",
       "url": "https://portal.careers.hsbc.com/careers/job/563774612365640",
       "posted": 1790614932,
+      "is_new": false
+    },
+    {
+      "company": "HSBC",
+      "title": "Senior Audit Manager, Asset Management and Insurance",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612387906",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612387906",
+      "posted": 1790869624,
       "is_new": false
     },
     {
@@ -62,7 +62,7 @@
       "id": "jpm-210793918",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793918",
       "posted": "2026-10-05",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
