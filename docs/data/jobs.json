@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T10:39:03.155373+00:00",
+  "generated_at": "2026-10-07T10:29:41.741970+00:00",
   "location_filter": "Mumbai",
   "keywords": [
     "Equity",
@@ -53,15 +53,6 @@
       "id": "hsbc-563774612387906",
       "url": "https://portal.careers.hsbc.com/careers/job/563774612387906",
       "posted": 1790869624,
-      "is_new": false
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Asset Management - Request for Proposal - Analyst",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210793918",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793918",
-      "posted": "2026-10-05",
       "is_new": false
     }
   ]
