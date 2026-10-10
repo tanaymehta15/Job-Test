@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:53:53.098507+00:00",
+  "generated_at": "2026-10-10T10:07:05.307480+00:00",
   "location_filter": "Mumbai",
   "keywords": [],
   "note": "All open roles, no keyword filter. Banks are live-scraped; AMCs are aggregated best-effort from Naukri/Indeed, plus a manual LinkedIn search link.",
@@ -50,21 +50,41 @@
     },
     {
       "company": "HSBC",
-      "title": "AVP Senior Premier Relationship Manager",
+      "title": "AM International Product Support",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612435162",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612435162",
-      "posted": 1791473366,
+      "id": "hsbc-563774612427999",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612427999",
+      "posted": 1791432469,
       "source": "Careers site",
       "is_new": true
     },
     {
       "company": "HSBC",
-      "title": "Vice President - Marketing",
+      "title": "CA Intern",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612435158",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612435158",
-      "posted": 1791472644,
+      "id": "hsbc-563774612231635",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612231635",
+      "posted": 1784791985,
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "HSBC",
+      "title": "Client Relationship Manegement - Support",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612439743",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612439743",
+      "posted": 1791539873,
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "HSBC",
+      "title": "SVP - Strategic Sourcing Manager",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612436505",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612436505",
+      "posted": 1791518430,
       "source": "Careers site",
       "is_new": true
     },
@@ -80,11 +100,11 @@
     },
     {
       "company": "HSBC",
-      "title": "Assistant Manager - Client Operations",
+      "title": "AVP Senior Premier Relationship Manager",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612365689",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612365689",
-      "posted": 1790615710,
+      "id": "hsbc-563774612435162",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612435162",
+      "posted": 1791473366,
       "source": "Careers site",
       "is_new": false
     },
@@ -100,41 +120,11 @@
     },
     {
       "company": "HSBC",
-      "title": "Assistant Manager Sales and Distribution - Apprentice (12 Months)",
+      "title": "Senior Vice President, Head of Transaction Services, Credit Operations",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612365747",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612365747",
-      "posted": 1790617206,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "Fund Administration Specialist",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612156765",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612156765",
-      "posted": 1787594481,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "Marketing Campaigns -Apprentice (12 Months)",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612424689",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612424689",
-      "posted": 1791366836,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "PREMIER RELATIONSHIP MANAGER",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612383690",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612383690",
-      "posted": 1790784376,
+      "id": "hsbc-563774612230998",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612230998",
+      "posted": 1788936544,
       "source": "Careers site",
       "is_new": false
     },
@@ -145,6 +135,16 @@
       "id": "hsbc-563774612424694",
       "url": "https://portal.careers.hsbc.com/careers/job/563774612424694",
       "posted": 1791366543,
+      "source": "Careers site",
+      "is_new": false
+    },
+    {
+      "company": "HSBC",
+      "title": "Vice President - Marketing",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612435158",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612435158",
+      "posted": 1791472644,
       "source": "Careers site",
       "is_new": false
     },
@@ -161,30 +161,10 @@
     },
     {
       "company": "JPMorgan",
-      "title": "Legal Entity Risk Management (Enterprise-Wide Risk Management), APAC – Associate",
+      "title": "Client Reporting - Associate",
       "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210774171",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774171",
-      "posted": "2026-10-09",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Market Risk Analyst",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210798412",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798412",
-      "posted": "2026-10-09",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Senior Product Associate",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210797184",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797184",
+      "id": "jpm-210794383",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794383",
       "posted": "2026-10-09",
       "source": "Careers site",
       "is_new": true
@@ -201,10 +181,10 @@
     },
     {
       "company": "JPMorgan",
-      "title": "Senior Manager of Software Engineering- SDET",
+      "title": "Legal Entity Risk Management (Enterprise-Wide Risk Management), APAC – Associate",
       "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210792403",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792403",
+      "id": "jpm-210774171",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774171",
       "posted": "2026-10-09",
       "source": "Careers site",
       "is_new": false
