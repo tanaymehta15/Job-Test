@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "company": "JPMorgan",
+    "title": "Software Engineer III - Full Stack Developer - React, TypeScript + Java/Go",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210789711",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789711",
+    "posted": "2026-10-12",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Sr Manager of Software Engineering - Java, AWS, React",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210791831",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791831",
+    "posted": "2026-10-12",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Product Owner/Product Delivery – Senior Associate",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210796769",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796769",
+    "posted": "2026-10-12",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Associate - Transport Operations",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210797881",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797881",
+    "posted": "2026-10-12",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Fund Servicing Associate II",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210798458",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798458",
+    "posted": "2026-10-12",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Fund Servicing Associate",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210799147",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799147",
+    "posted": "2026-10-12",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Fund Servicing Associate",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210799148",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799148",
+    "posted": "2026-10-12",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Senior India Branch Regulatory Reporting & Treasury Markets Operations - Associate",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210799573",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799573",
+    "posted": "2026-10-12",
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Manager Employee Workplace Solutions, MSF",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612436101",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612436101",
+    "posted": 1791489866,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "CA Industrial Trainee",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612437305",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612437305",
+    "posted": 1791527326,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "VP Premier Plus Relationship Manager",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612393003",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612393003",
+    "posted": 1791023008,
+    "source": "Careers site"
+  }
+]
