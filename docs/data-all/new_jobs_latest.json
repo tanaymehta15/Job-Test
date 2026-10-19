@@ -1,11 +1,29 @@
 [
   {
-    "company": "HSBC",
-    "title": "AM International Product Support",
+    "company": "JPMorgan",
+    "title": "Quantitative Associate - Managed Investment Team",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612405417",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612405417",
-    "posted": 1791219948,
+    "id": "jpm-210800014",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800014",
+    "posted": "2026-10-19",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Product Manager – Vice President ConnectWealth",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210800895",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800895",
+    "posted": "2026-10-19",
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "AM NRI SERVICES",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612448240",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612448240",
+    "posted": 1791787156,
     "source": "Careers site"
   }
 ]
