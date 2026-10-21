@@ -1,29 +1,83 @@
 [
   {
-    "company": "HSBC",
-    "title": "Associate Vice President - Data Analytics and Transformation",
+    "company": "JPMorgan",
+    "title": "Associate - Corporate Legal",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612457658",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612457658",
-    "posted": 1791851861,
+    "id": "jpm-210783463",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783463",
+    "posted": "2026-10-21",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Technology Support III",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210787643",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787643",
+    "posted": "2026-10-21",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Reference Data Analyst",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210799176",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799176",
+    "posted": "2026-10-21",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Assistant Vice President - Senior Legal Counsel - Payments",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210800476",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800476",
+    "posted": "2026-10-21",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Trade Lifecycle Analyst",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210800735",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800735",
+    "posted": "2026-10-21",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Valuation Controller - Anayst",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210801181",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801181",
+    "posted": "2026-10-21",
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "Internal Auditor",
+    "title": "VP MI Systems and Cntrl, INM FIN",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612457667",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612457667",
-    "posted": 1791852669,
+    "id": "hsbc-563774612471682",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612471682",
+    "posted": 1792125464,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "Head of Securities Services, India",
+    "title": "Universal Banker",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612465971",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612465971",
-    "posted": 1792030627,
+    "id": "hsbc-563774612506007",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612506007",
+    "posted": 1792380437,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Teller Supervisor",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612506035",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612506035",
+    "posted": 1792381153,
     "source": "Careers site"
   }
 ]
