@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:49:17.109477+00:00",
+  "generated_at": "2026-10-24T08:23:12.919682+00:00",
   "location_filter": "Mumbai",
   "keywords": [],
   "note": "All open roles, no keyword filter. Banks are live-scraped; AMCs are aggregated best-effort from Naukri/Indeed, plus a manual LinkedIn search link.",
@@ -50,6 +50,26 @@
     },
     {
       "company": "HSBC",
+      "title": "VP Sales and Distribution",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612298480",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612298480",
+      "posted": 1789693541,
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "HSBC",
+      "title": "AVP Sales and Distribution",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612295160",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612295160",
+      "posted": 1789669228,
+      "source": "Careers site",
+      "is_new": false
+    },
+    {
+      "company": "HSBC",
       "title": "AVP, Credit Services",
       "location": "Mumbai, Maharashtra, India",
       "id": "hsbc-563774612449117",
@@ -60,11 +80,11 @@
     },
     {
       "company": "HSBC",
-      "title": "Assistant Manager Employee Workplace Solutions, MSF",
+      "title": "Assistant Manager Sales and Distribution",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612447473",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612447473",
-      "posted": 1791734180,
+      "id": "hsbc-563774612298554",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612298554",
+      "posted": 1789695936,
       "source": "Careers site",
       "is_new": false
     },
@@ -80,21 +100,21 @@
     },
     {
       "company": "HSBC",
-      "title": "Client Relationship Manegement - Support",
+      "title": "Client Relationship Support (Apprentice-12 Months)",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612439743",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612439743",
-      "posted": 1791539873,
+      "id": "hsbc-563774612404516",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612404516",
+      "posted": 1791204640,
       "source": "Careers site",
       "is_new": false
     },
     {
       "company": "HSBC",
-      "title": "Head of IT - GIFT",
+      "title": "Head of Securities Services, India",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612203615",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612203615",
-      "posted": 1788421230,
+      "id": "hsbc-563774612465971",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612465971",
+      "posted": 1792030627,
       "source": "Careers site",
       "is_new": false
     },
@@ -110,26 +130,6 @@
     },
     {
       "company": "HSBC",
-      "title": "Manager Employee Workplace Solutions, MSF",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612436101",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612436101",
-      "posted": 1791489866,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "Manager Employee Workplace Solutions, MSF",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612447461",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612447461",
-      "posted": 1791732488,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
       "title": "SVP - Strategic Sourcing Manager",
       "location": "Mumbai, Maharashtra, India",
       "id": "hsbc-563774612436505",
@@ -140,11 +140,11 @@
     },
     {
       "company": "HSBC",
-      "title": "VP Premier Plus Relationship Manager",
+      "title": "Universal Banker",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612445000",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612445000",
-      "posted": 1791625648,
+      "id": "hsbc-563774612506007",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612506007",
+      "posted": 1792380437,
       "source": "Careers site",
       "is_new": false
     },
@@ -161,21 +161,11 @@
     },
     {
       "company": "JPMorgan",
-      "title": "Asset and Wealth Management Audit - AVP",
+      "title": "Product Manager - Liquidity & Account Solutions Product Development – Vice President",
       "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210802422",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802422",
+      "id": "jpm-210792979",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792979",
       "posted": "2026-10-23",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Core Trade Digital Product Delivery - Vice President",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210784151",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784151",
-      "posted": "2026-10-22",
       "source": "Careers site",
       "is_new": true
     },
@@ -187,45 +177,15 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798018",
       "posted": "2026-10-23",
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "JPMorgan",
-      "title": "Payment Lifecycle Associate I",
+      "title": "Software Engineer III - DevOps",
       "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210800860",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800860",
+      "id": "jpm-210783949",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783949",
       "posted": "2026-10-23",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Payment Lifecycle Associate II",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210802010",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802010",
-      "posted": "2026-10-23",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Trade Lifecycle Analyst",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210802500",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802500",
-      "posted": "2026-10-23",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Software Engineer II - Unix, Shell, DB (Oracle, MongoDB), Python, SRE",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210755322",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755322",
-      "posted": "2026-10-22",
       "source": "Careers site",
       "is_new": false
     },
