@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "company": "JPMorgan",
+    "title": "Fund Servicing Analyst",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210800486",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800486",
+    "posted": "2026-10-26",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Manager of Software Engineering - Automation QA",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210801613",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801613",
+    "posted": "2026-10-26",
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "AVP - Revenue Management",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612520438",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612520438",
+    "posted": 1792642132,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "VP - Relationship Manager - BB",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612520588",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612520588",
+    "posted": 1792645353,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Senior Vice President and Branch Head",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612523383",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612523383",
+    "posted": 1792682814,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "CA Intern",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612111620",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612111620",
+    "posted": 1786533165,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Assistant Vice President Liabilities and Demat Operations",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612519786",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612519786",
+    "posted": 1792606265,
+    "source": "Careers site"
+  }
+]
