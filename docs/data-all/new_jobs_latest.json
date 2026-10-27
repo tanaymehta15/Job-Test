@@ -1,65 +1,92 @@
 [
   {
     "company": "JPMorgan",
-    "title": "Fund Servicing Analyst",
+    "title": "Senior Credit Risk Associate",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210800486",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800486",
-    "posted": "2026-10-26",
+    "id": "jpm-210794838",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794838",
+    "posted": "2026-10-27",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Manager of Software Engineering - Automation QA",
+    "title": "Vice President-Business Management",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210801613",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801613",
-    "posted": "2026-10-26",
+    "id": "jpm-210801337",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801337",
+    "posted": "2026-10-27",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Fund Servicing Analyst",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210801744",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801744",
+    "posted": "2026-10-27",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Analytics Solutions Analyst",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210803754",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803754",
+    "posted": "2026-10-27",
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "AVP - Revenue Management",
+    "title": "AVP Operations",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612520438",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612520438",
-    "posted": 1792642132,
+    "id": "hsbc-563774612515203",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612515203",
+    "posted": 1792512988,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "VP - Relationship Manager - BB",
+    "title": "Assistant Manager-OI business",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612520588",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612520588",
-    "posted": 1792645353,
+    "id": "hsbc-563774612506087",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612506087",
+    "posted": 1792384106,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "Senior Vice President and Branch Head",
+    "title": "PREMIER SERVICE MANAGER (Rajkot)",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612523383",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612523383",
-    "posted": 1792682814,
+    "id": "hsbc-563774612506088",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612506088",
+    "posted": 1792383119,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "CA Intern",
+    "title": "Manager - Client Services",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612111620",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612111620",
-    "posted": 1786533165,
+    "id": "hsbc-563774612508599",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612508599",
+    "posted": 1792409197,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "Assistant Vice President Liabilities and Demat Operations",
+    "title": "Senior Manager - Fixed Income, Alternatives and Structured Products",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612519786",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612519786",
-    "posted": 1792606265,
+    "id": "hsbc-563774612519728",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612519728",
+    "posted": 1792605831,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "AVP Senior Premier Relationship Manager",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612519785",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612519785",
+    "posted": 1792606809,
     "source": "Careers site"
   }
 ]
