@@ -1,92 +1,101 @@
 [
   {
     "company": "JPMorgan",
-    "title": "Payment Lifecycle Specialist",
+    "title": "Associate- Business Analysis",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210774084",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774084",
+    "id": "jpm-210800839",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800839",
+    "posted": "2026-10-29",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Software Engineer III JAVA Backend, Spring Boot, Kafka, Kubernetes",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210802704",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802704",
+    "posted": "2026-10-29",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Solutions Analyst III - Automation Test Engineer",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210802864",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802864",
+    "posted": "2026-10-29",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Deposits Pricing Associate",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210803325",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803325",
+    "posted": "2026-10-29",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Asset Servicing Associate",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210803789",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803789",
+    "posted": "2026-10-29",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Lead Software Engineer Java , React , AWS",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210804688",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804688",
+    "posted": "2026-10-29",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Fund Servicing Associate",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210804857",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804857",
+    "posted": "2026-10-29",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Quant Analytics Analyst",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210787644",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787644",
     "posted": "2026-10-28",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Senior Lead Software Engineer- Java Backend",
+    "title": "Executive Director, Fund Services NAV Operations – EMEA",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210788290",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788290",
+    "id": "jpm-210788589",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788589",
     "posted": "2026-10-28",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Software Engineer III - SAP ABAP, Fiori, RAP",
+    "title": "Asset Wealth Management - Risk Internal Controls and Quality",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210795776",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795776",
-    "posted": "2026-10-28",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Software Engineer II - Fullstack (Java, React, AWS)",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210800213",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800213",
-    "posted": "2026-10-28",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Applied AI and Data Science Specialist – Global Research Modernization",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210803316",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803316",
-    "posted": "2026-10-28",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Lead Software Engineer - Cognos, BO, Snowflake, SQL",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210804219",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804219",
-    "posted": "2026-10-28",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Fund Servicing Associate Trades",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210804240",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804240",
+    "id": "jpm-210789495",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789495",
     "posted": "2026-10-28",
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "CA Industrial Trainee",
+    "title": "Vice President Business Development,IBU",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612505926",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612505926",
-    "posted": 1792376099,
-    "source": "Careers site"
-  },
-  {
-    "company": "HSBC",
-    "title": "Implementation Manager",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612521455",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612521455",
-    "posted": 1792658298,
-    "source": "Careers site"
-  },
-  {
-    "company": "HSBC",
-    "title": "Third Party Management Senior Manager",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612522614",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612522614",
-    "posted": 1792671709,
+    "id": "hsbc-563774610522480",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774610522480",
+    "posted": 1775408005,
     "source": "Careers site"
   }
 ]
