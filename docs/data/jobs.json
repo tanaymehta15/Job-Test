@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T11:12:43.395565+00:00",
+  "generated_at": "2026-11-04T11:24:47.067826+00:00",
   "location_filter": "Mumbai",
   "keywords": [
     "Equity",
@@ -39,12 +39,21 @@
     },
     {
       "company": "JPMorgan",
+      "title": "Asset Management Business Management - Associate",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210785338",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785338",
+      "posted": "2026-11-04",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
       "title": "Equity Research Analyst - Global Research Center, Mumbai",
       "location": "Mumbai, Maharashtra, India",
       "id": "jpm-210796238",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796238",
       "posted": "2026-11-03",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
