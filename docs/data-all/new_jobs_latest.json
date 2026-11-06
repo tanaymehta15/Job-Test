@@ -1,74 +1,110 @@
 [
   {
     "company": "JPMorgan",
-    "title": "Product Delivery Analyst - Campaign Test Automation",
+    "title": "Relationship Partner - Analyst",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210795353",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795353",
-    "posted": "2026-11-05",
+    "id": "jpm-210789446",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789446",
+    "posted": "2026-11-06",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Senior Associate - Quant Modeling",
+    "title": "Research Analyst",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210798385",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798385",
-    "posted": "2026-11-05",
+    "id": "jpm-210805463",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805463",
+    "posted": "2026-11-06",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Software Engineer II - Java - Springboot, React, RDBMS, Kubernetes",
+    "title": "Manager of Software Engineering - Java FullStack AWS",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210802523",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802523",
-    "posted": "2026-11-05",
+    "id": "jpm-210805480",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805480",
+    "posted": "2026-11-06",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Software Engineer III - Java Fullstack AWS",
+    "title": "Research Modernization - Business Intelligence Developer",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210805484",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805484",
-    "posted": "2026-11-05",
+    "id": "jpm-210805766",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805766",
+    "posted": "2026-11-06",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Payment Lifecycle Analyst",
+    "title": "Implementation Manager - Associate",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210805534",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805534",
-    "posted": "2026-11-05",
+    "id": "jpm-210806196",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806196",
+    "posted": "2026-11-06",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Payment Lifecycle Specialist",
+    "title": "Client Service Associate",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210805743",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805743",
-    "posted": "2026-11-05",
+    "id": "jpm-210806228",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806228",
+    "posted": "2026-11-06",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Associate - Capital Markets Legal",
+    "title": "Payment Lifecyle Manager",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210806200",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806200",
-    "posted": "2026-11-05",
+    "id": "jpm-210806691",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806691",
+    "posted": "2026-11-06",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Associate-Marketing and Corporate Communications",
+    "title": "Head of APAC Asset & Liability Management Risk – Executive Director",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210807072",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807072",
-    "posted": "2026-11-05",
+    "id": "jpm-210807069",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807069",
+    "posted": "2026-11-06",
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Audit Manager",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612587315",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612587315",
+    "posted": 1793729597,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "CA Industrial Trainee",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612597477",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612597477",
+    "posted": 1793895489,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Manager - Client Services",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612330327",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612330327",
+    "posted": 1790181455,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Universal Banker (Rajkot)",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612592875",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612592875",
+    "posted": 1793814582,
     "source": "Careers site"
   }
 ]
