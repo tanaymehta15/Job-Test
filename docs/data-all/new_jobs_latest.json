@@ -1,110 +1,38 @@
 [
   {
-    "company": "JPMorgan",
-    "title": "Relationship Partner - Analyst",
+    "company": "HSBC",
+    "title": "Vice President- Equities",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210789446",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789446",
-    "posted": "2026-11-06",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Research Analyst",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210805463",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805463",
-    "posted": "2026-11-06",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Manager of Software Engineering - Java FullStack AWS",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210805480",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805480",
-    "posted": "2026-11-06",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Research Modernization - Business Intelligence Developer",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210805766",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805766",
-    "posted": "2026-11-06",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Implementation Manager - Associate",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210806196",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806196",
-    "posted": "2026-11-06",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Client Service Associate",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210806228",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806228",
-    "posted": "2026-11-06",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Payment Lifecyle Manager",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210806691",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806691",
-    "posted": "2026-11-06",
-    "source": "Careers site"
-  },
-  {
-    "company": "JPMorgan",
-    "title": "Head of APAC Asset & Liability Management Risk – Executive Director",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210807069",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807069",
-    "posted": "2026-11-06",
+    "id": "hsbc-563774612593247",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612593247",
+    "posted": 1793829401,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "Audit Manager",
+    "title": "Assistant Manager Sales and Distribution - Apprentice (12 Months)",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612587315",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612587315",
-    "posted": 1793729597,
+    "id": "hsbc-563774612597981",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612597981",
+    "posted": 1793910650,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "CA Industrial Trainee",
+    "title": "Senior VP Business Development NRI",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612597477",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612597477",
-    "posted": 1793895489,
+    "id": "hsbc-563774612597688",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612597688",
+    "posted": 1793901745,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
-    "title": "Manager - Client Services",
+    "title": "Lead Data management",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612330327",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612330327",
-    "posted": 1790181455,
-    "source": "Careers site"
-  },
-  {
-    "company": "HSBC",
-    "title": "Universal Banker (Rajkot)",
-    "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612592875",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612592875",
-    "posted": 1793814582,
+    "id": "hsbc-563774612521266",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612521266",
+    "posted": 1792654291,
     "source": "Careers site"
   }
 ]
