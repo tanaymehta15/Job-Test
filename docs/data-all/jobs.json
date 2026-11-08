@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T10:39:59.372894+00:00",
+  "generated_at": "2026-11-08T10:45:11.699534+00:00",
   "location_filter": "Mumbai",
   "keywords": [],
   "note": "All open roles, no keyword filter. Banks are live-scraped; AMCs are aggregated best-effort from Naukri/Indeed, plus a manual LinkedIn search link.",
@@ -50,13 +50,63 @@
     },
     {
       "company": "HSBC",
+      "title": "Assistant Manager, Operations",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612330358",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612330358",
+      "posted": 1790182079,
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "HSBC",
+      "title": "Manager Payment Services",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612521456",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612521456",
+      "posted": 1792657648,
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "HSBC",
+      "title": "Vice President",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612600314",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612600314",
+      "posted": 1793958929,
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "HSBC",
+      "title": "AVP Product Control",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612548652",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612548652",
+      "posted": 1793162813,
+      "source": "Careers site",
+      "is_new": false
+    },
+    {
+      "company": "HSBC",
       "title": "Assistant Manager Sales and Distribution - Apprentice (12 Months)",
       "location": "Mumbai, Maharashtra, India",
       "id": "hsbc-563774612597981",
       "url": "https://portal.careers.hsbc.com/careers/job/563774612597981",
       "posted": 1793910650,
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "company": "HSBC",
+      "title": "Head of West India IMM, India BCO",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612182901",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612182901",
+      "posted": 1788149609,
+      "source": "Careers site",
+      "is_new": false
     },
     {
       "company": "HSBC",
@@ -66,7 +116,7 @@
       "url": "https://portal.careers.hsbc.com/careers/job/563774612521266",
       "posted": 1792654291,
       "source": "Careers site",
-      "is_new": true
+      "is_new": false
     },
     {
       "company": "HSBC",
@@ -75,56 +125,6 @@
       "id": "hsbc-563774612597688",
       "url": "https://portal.careers.hsbc.com/careers/job/563774612597688",
       "posted": 1793901745,
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "HSBC",
-      "title": "Vice President- Equities",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612593247",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612593247",
-      "posted": 1793829401,
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "HSBC",
-      "title": "AVP Distribution Support",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612400082",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612400082",
-      "posted": 1791175048,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "AVP Sales and Distribution",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612295160",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612295160",
-      "posted": 1789669228,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "Implementation Manager",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612521455",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612521455",
-      "posted": 1792658298,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "Senior Vice President, Head of Transaction Services, Credit Operations",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612230998",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612230998",
-      "posted": 1788936544,
       "source": "Careers site",
       "is_new": false
     },
@@ -140,11 +140,11 @@
     },
     {
       "company": "HSBC",
-      "title": "VP Sales and Distribution",
+      "title": "Vice President- Equities",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612298480",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612298480",
-      "posted": 1789693541,
+      "id": "hsbc-563774612593247",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612593247",
+      "posted": 1793829401,
       "source": "Careers site",
       "is_new": false
     },
