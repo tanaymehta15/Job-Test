@@ -1,65 +1,128 @@
 [
   {
     "company": "JPMorgan",
-    "title": "Software Engineer III-Java, React",
+    "title": "VP-  Central P&A - CCAR & Earnings",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210794821",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794821",
-    "posted": "2026-11-10",
+    "id": "jpm-210785098",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785098",
+    "posted": "2026-11-11",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Software Engineer III-Java Full Stack",
+    "title": "Compliance and Ops Risk Test Specialist",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210805374",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805374",
-    "posted": "2026-11-10",
+    "id": "jpm-210803460",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803460",
+    "posted": "2026-11-11",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Technical Program Manager",
+    "title": "Manager of Software Engineering - Java, SQL, React, AWS, Qliksense",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210805561",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805561",
-    "posted": "2026-11-10",
+    "id": "jpm-210806214",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806214",
+    "posted": "2026-11-11",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "CIB_Global Finance and Business Management_Business Support Management – Expense Management (Invoicing) - Team Member",
+    "title": "Product Delivery Associate",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210805783",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805783",
-    "posted": "2026-11-10",
+    "id": "jpm-210806257",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806257",
+    "posted": "2026-11-11",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Software Engineer III-Java, Springboot",
+    "title": "Product Delivery Associate",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210806422",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806422",
-    "posted": "2026-11-10",
+    "id": "jpm-210806302",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806302",
+    "posted": "2026-11-11",
     "source": "Careers site"
   },
   {
     "company": "JPMorgan",
-    "title": "Software Engineer III-DevOps",
+    "title": "Associate Legal Market",
     "location": "Mumbai, Maharashtra, India",
-    "id": "jpm-210806437",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806437",
-    "posted": "2026-11-10",
+    "id": "jpm-210806711",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806711",
+    "posted": "2026-11-11",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "India Branch - Payments Operations (FEMA) - Analyst",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210807071",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807071",
+    "posted": "2026-11-11",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Global Banking Deal Services Billing Lead- Executive Director",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210807609",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807609",
+    "posted": "2026-11-11",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Payment Lifecycle Operations Associate",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210808648",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808648",
+    "posted": "2026-11-11",
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Vice President - Global Indian Premier RM",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612613039",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612613039",
+    "posted": 1794205272,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "AVP - Global Indian Premier RM",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612613044",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612613044",
+    "posted": 1794204692,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "AVP - Global Indian Premier RM",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612613158",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612613158",
+    "posted": 1794205856,
     "source": "Careers site"
   },
   {
     "company": "HSBC",
     "title": "AVP PREMIER RELATIONSHIP MANAGER(Rajkot)",
     "location": "Mumbai, Maharashtra, India",
-    "id": "hsbc-563774612613190",
-    "url": "https://portal.careers.hsbc.com/careers/job/563774612613190",
-    "posted": 1794208240,
+    "id": "hsbc-563774612615933",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612615933",
+    "posted": 1794283861,
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Product Manager",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612614367",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612614367",
+    "posted": 1794228905,
     "source": "Careers site"
   }
 ]
