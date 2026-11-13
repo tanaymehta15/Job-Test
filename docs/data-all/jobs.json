@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T11:49:04.795785+00:00",
+  "generated_at": "2026-11-13T11:30:50.973297+00:00",
   "location_filter": "Mumbai",
   "keywords": [],
   "note": "All open roles, no keyword filter. Banks are live-scraped; AMCs are aggregated best-effort from Naukri/Indeed, plus a manual LinkedIn search link.",
@@ -50,13 +50,13 @@
     },
     {
       "company": "HSBC",
-      "title": "AM VCIP support",
+      "title": "Assistant Vice President - SALES AND DISTRIBUTION - CHANNEL SALES • CHANNEL SALES",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612585217",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612585217",
-      "posted": 1793704451,
+      "id": "hsbc-563774612629978",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612629978",
+      "posted": 1794451931,
       "source": "Careers site",
-      "is_new": false
+      "is_new": true
     },
     {
       "company": "HSBC",
@@ -70,11 +70,21 @@
     },
     {
       "company": "HSBC",
-      "title": "Assistant Manager Sales and Distribution",
+      "title": "Analyst BCO",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612298554",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612298554",
-      "posted": 1789695936,
+      "id": "hsbc-563774612562682",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612562682",
+      "posted": 1793349614,
+      "source": "Careers site",
+      "is_new": false
+    },
+    {
+      "company": "HSBC",
+      "title": "Derivatives Sales Trader",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612579069",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612579069",
+      "posted": 1793636792,
       "source": "Careers site",
       "is_new": false
     },
@@ -90,41 +100,21 @@
     },
     {
       "company": "HSBC",
-      "title": "Product Manager",
+      "title": "SVP Product Control",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612614367",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612614367",
-      "posted": 1794228905,
+      "id": "hsbc-563774612583957",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612583957",
+      "posted": 1793695433,
       "source": "Careers site",
       "is_new": false
     },
     {
       "company": "HSBC",
-      "title": "Sector Head I and T, GNB",
+      "title": "VP Premier Plus Relationship Manager",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612582507",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612582507",
-      "posted": 1793675954,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "Senior Universal Banker",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612560913",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612560913",
-      "posted": 1793297654,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "VP Regulatory Reporting",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612471682",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612471682",
-      "posted": 1792125464,
+      "id": "hsbc-563774612424694",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612424694",
+      "posted": 1791366543,
       "source": "Careers site",
       "is_new": false
     },
@@ -149,6 +139,16 @@
       "is_new": false
     },
     {
+      "company": "HSBC",
+      "title": "Vice President and Branch Head(Rajkot)",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612328349",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612328349",
+      "posted": 1790158755,
+      "source": "Careers site",
+      "is_new": false
+    },
+    {
       "company": "ICICI Prudential Asset Management",
       "source": "LinkedIn",
       "title": "Manual check (LinkedIn isn't auto-scraped, see adapters_amc.py)",
@@ -161,123 +161,13 @@
     },
     {
       "company": "JPMorgan",
-      "title": "Asset Manager Vice President",
+      "title": "Trade Lifecycle Specialist",
       "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210807319",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807319",
-      "posted": "2026-11-12",
+      "id": "jpm-210808685",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808685",
+      "posted": "2026-11-13",
       "source": "Careers site",
       "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Fraud Analyst",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210804917",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804917",
-      "posted": "2026-11-11",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Fund Servicing Analyst",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210808661",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808661",
-      "posted": "2026-11-12",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Payment Lifecycle Specialist Analyst",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210808649",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808649",
-      "posted": "2026-11-12",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Software Engineer III - Java Full Stack, AI",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210806204",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806204",
-      "posted": "2026-11-12",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Trade Services Analyst",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210805082",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805082",
-      "posted": "2026-11-12",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Vice President - Litigation - Legal",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210806716",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806716",
-      "posted": "2026-11-12",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Wholesale Credit Risk Associate",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210808196",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808196",
-      "posted": "2026-11-12",
-      "source": "Careers site",
-      "is_new": true
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Analytics Solution-Associate",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210805033",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805033",
-      "posted": "2026-11-11",
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Compliance and Ops Risk Test Specialist",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210803460",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803460",
-      "posted": "2026-11-11",
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "JPMorgan",
-      "title": "India Direct Custody Operations - Designated Depository Participant Services (DDP) - Associate",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210785335",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785335",
-      "posted": "2026-11-11",
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Manager of Software Engineering - Java, SQL, React, AWS, Qliksense",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210806214",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806214",
-      "posted": "2026-11-11",
-      "source": "Careers site",
-      "is_new": false
     },
     {
       "company": "JPMorgan",
@@ -286,26 +176,6 @@
       "id": "jpm-210796769",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796769",
       "posted": "2026-11-12",
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "JPMorgan",
-      "title": "Software Engineer III-Java, Springboot",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210806422",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806422",
-      "posted": "2026-11-12",
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "JPMorgan",
-      "title": "VP-  Central P&A - CCAR & Earnings",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "jpm-210785098",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785098",
-      "posted": "2026-11-11",
       "source": "Careers site",
       "is_new": false
     },
