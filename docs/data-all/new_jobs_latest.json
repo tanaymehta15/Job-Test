@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "company": "JPMorgan",
+    "title": "Business UAT Analyst -1",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210779003",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779003",
+    "posted": "2026-11-16",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Lead Data Engineer - Data Engineering, Databricks, Model Serving, ML Ops, Data Architecture and modeling",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210806251",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806251",
+    "posted": "2026-11-16",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Business Manager - Trade Finance - Vice President",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210808234",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808234",
+    "posted": "2026-11-16",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Marketing Delivery Associate Senior-Experimentation & UAT",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210808759",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808759",
+    "posted": "2026-11-16",
+    "source": "Careers site"
+  },
+  {
+    "company": "JPMorgan",
+    "title": "Marketing Materials Vice President",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "jpm-210808762",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808762",
+    "posted": "2026-11-16",
+    "source": "Careers site"
+  },
+  {
+    "company": "HSBC",
+    "title": "Head of Wealth Risk, International Wealth and Premier Banking (IWPB), HSBC-India (INM)",
+    "location": "Mumbai, Maharashtra, India",
+    "id": "hsbc-563774612545977",
+    "url": "https://portal.careers.hsbc.com/careers/job/563774612545977",
+    "posted": 1793107349,
+    "source": "Careers site"
+  }
+]

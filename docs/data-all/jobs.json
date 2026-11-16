@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T11:28:52.818333+00:00",
+  "generated_at": "2026-11-16T12:01:31.227687+00:00",
   "location_filter": "Mumbai",
   "keywords": [],
   "note": "All open roles, no keyword filter. Banks are live-scraped; AMCs are aggregated best-effort from Naukri/Indeed, plus a manual LinkedIn search link.",
@@ -50,21 +50,21 @@
     },
     {
       "company": "HSBC",
+      "title": "Head of Wealth Risk, International Wealth and Premier Banking (IWPB), HSBC-India (INM)",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612545977",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612545977",
+      "posted": 1793107349,
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "HSBC",
       "title": "AVP Distribution Support",
       "location": "Mumbai, Maharashtra, India",
       "id": "hsbc-563774612400082",
       "url": "https://portal.careers.hsbc.com/careers/job/563774612400082",
       "posted": 1791175048,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "AVP Sales and Distribution",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612295160",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612295160",
-      "posted": 1789669228,
       "source": "Careers site",
       "is_new": false
     },
@@ -82,29 +82,19 @@
       "company": "HSBC",
       "title": "Assistant Manager Sales and Distribution - Apprentice (12 Months)",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612365747",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612365747",
-      "posted": 1790617206,
+      "id": "hsbc-563774612597981",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612597981",
+      "posted": 1793910650,
       "source": "Careers site",
       "is_new": false
     },
     {
       "company": "HSBC",
-      "title": "Client Relationship Management - Support (Apprentice-12 Months)",
+      "title": "Audit Manager",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612326021",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612326021",
-      "posted": 1790137012,
-      "source": "Careers site",
-      "is_new": false
-    },
-    {
-      "company": "HSBC",
-      "title": "Client Relationship Management - Support(Apprentice-12 Months)",
-      "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612223128",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612223128",
-      "posted": 1788795781,
+      "id": "hsbc-563774612587315",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612587315",
+      "posted": 1793729597,
       "source": "Careers site",
       "is_new": false
     },
@@ -130,21 +120,31 @@
     },
     {
       "company": "HSBC",
-      "title": "Universal Banker Leader (Rajkot)",
+      "title": "Universal Banker (Rajkot)",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612565122",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612565122",
-      "posted": 1793428231,
+      "id": "hsbc-563774612592875",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612592875",
+      "posted": 1793814582,
       "source": "Careers site",
       "is_new": false
     },
     {
       "company": "HSBC",
-      "title": "VP Sales and Distribution",
+      "title": "Vice President",
       "location": "Mumbai, Maharashtra, India",
-      "id": "hsbc-563774612298480",
-      "url": "https://portal.careers.hsbc.com/careers/job/563774612298480",
-      "posted": 1789693541,
+      "id": "hsbc-563774612600314",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612600314",
+      "posted": 1793958929,
+      "source": "Careers site",
+      "is_new": false
+    },
+    {
+      "company": "HSBC",
+      "title": "Vice President- Equities",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "hsbc-563774612593247",
+      "url": "https://portal.careers.hsbc.com/careers/job/563774612593247",
+      "posted": 1793829401,
       "source": "Careers site",
       "is_new": false
     },
@@ -157,6 +157,66 @@
       "url": "https://www.linkedin.com/jobs/search/?keywords=ICICI%20Prudential%20Asset%20Management&location=Mumbai%2C%20India",
       "posted": "",
       "manual_check": true,
+      "is_new": false
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Business Manager - Trade Finance - Vice President",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210808234",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808234",
+      "posted": "2026-11-16",
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Business UAT Analyst -1",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210779003",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779003",
+      "posted": "2026-11-16",
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Lead Data Engineer - Data Engineering, Databricks, Model Serving, ML Ops, Data Architecture and modeling",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210806251",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806251",
+      "posted": "2026-11-16",
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Marketing Delivery Associate Senior-Experimentation & UAT",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210808759",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808759",
+      "posted": "2026-11-16",
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Marketing Materials Vice President",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210808762",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808762",
+      "posted": "2026-11-16",
+      "source": "Careers site",
+      "is_new": true
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Software Engineer III-Java Full Stack",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210805374",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805374",
+      "posted": "2026-11-16",
+      "source": "Careers site",
       "is_new": false
     },
     {
