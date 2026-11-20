@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T11:59:24.771573+00:00",
+  "generated_at": "2026-11-20T12:00:10.362338+00:00",
   "location_filter": "Mumbai",
   "keywords": [
     "Equity",
@@ -36,6 +36,15 @@
       "posted": "",
       "manual_check": true,
       "is_new": false
+    },
+    {
+      "company": "JPMorgan",
+      "title": "Asset Management - Client Services Platform Analytics",
+      "location": "Mumbai, Maharashtra, India",
+      "id": "jpm-210809946",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809946",
+      "posted": "2026-11-19",
+      "is_new": true
     }
   ]
 }
