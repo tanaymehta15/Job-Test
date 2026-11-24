@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:29:28.350026+00:00",
+  "generated_at": "2026-11-24T14:07:32.953144+00:00",
   "location_filter": "Mumbai",
   "keywords": [
     "Equity",
@@ -44,7 +44,7 @@
       "id": "jpm-210810362",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810362",
       "posted": "2026-11-23",
-      "is_new": true
+      "is_new": false
     }
   ]
 }
